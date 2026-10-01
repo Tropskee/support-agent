@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.agents/skills/
+.claude/skills/
+.sessions/
+.ori/
+node_modules/
+*.db
+*.db-*
+setup-environment.sh
+# Ori
+.cache/
+*.bak

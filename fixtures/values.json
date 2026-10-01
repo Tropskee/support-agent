@@ -1,0 +1,5837 @@
+[
+  {
+    "cardId": "base1-2",
+    "grade": 1,
+    "valueUsd": 142
+  },
+  {
+    "cardId": "base1-2",
+    "grade": 2,
+    "valueUsd": 110
+  },
+  {
+    "cardId": "base1-2",
+    "grade": 3,
+    "valueUsd": 90
+  },
+  {
+    "cardId": "base1-2",
+    "grade": 4,
+    "valueUsd": 109
+  },
+  {
+    "cardId": "base1-2",
+    "grade": 5,
+    "valueUsd": 117
+  },
+  {
+    "cardId": "base1-2",
+    "grade": 6,
+    "valueUsd": 144
+  },
+  {
+    "cardId": "base1-2",
+    "grade": 7,
+    "valueUsd": 259
+  },
+  {
+    "cardId": "base1-2",
+    "grade": 8,
+    "valueUsd": 403
+  },
+  {
+    "cardId": "base1-2",
+    "grade": 9,
+    "valueUsd": 1058
+  },
+  {
+    "cardId": "base1-2",
+    "grade": 10,
+    "valueUsd": 7742
+  },
+  {
+    "cardId": "base1-10",
+    "grade": 1,
+    "valueUsd": 105
+  },
+  {
+    "cardId": "base1-10",
+    "grade": 2,
+    "valueUsd": 79
+  },
+  {
+    "cardId": "base1-10",
+    "grade": 3,
+    "valueUsd": 48
+  },
+  {
+    "cardId": "base1-10",
+    "grade": 4,
+    "valueUsd": 44
+  },
+  {
+    "cardId": "base1-10",
+    "grade": 5,
+    "valueUsd": 48
+  },
+  {
+    "cardId": "base1-10",
+    "grade": 6,
+    "valueUsd": 70
+  },
+  {
+    "cardId": "base1-10",
+    "grade": 7,
+    "valueUsd": 105
+  },
+  {
+    "cardId": "base1-10",
+    "grade": 8,
+    "valueUsd": 193
+  },
+  {
+    "cardId": "base1-10",
+    "grade": 9,
+    "valueUsd": 413
+  },
+  {
+    "cardId": "base1-10",
+    "grade": 10,
+    "valueUsd": 3349
+  },
+  {
+    "cardId": "base1-4",
+    "grade": 1,
+    "valueUsd": 900
+  },
+  {
+    "cardId": "base1-4",
+    "grade": 2,
+    "valueUsd": 759
+  },
+  {
+    "cardId": "base1-4",
+    "grade": 3,
+    "valueUsd": 1223
+  },
+  {
+    "cardId": "base1-4",
+    "grade": 4,
+    "valueUsd": 1345
+  },
+  {
+    "cardId": "base1-4",
+    "grade": 5,
+    "valueUsd": 1724
+  },
+  {
+    "cardId": "base1-4",
+    "grade": 6,
+    "valueUsd": 2239
+  },
+  {
+    "cardId": "base1-4",
+    "grade": 7,
+    "valueUsd": 3263
+  },
+  {
+    "cardId": "base1-4",
+    "grade": 8,
+    "valueUsd": 5473
+  },
+  {
+    "cardId": "base1-4",
+    "grade": 9,
+    "valueUsd": 11342
+  },
+  {
+    "cardId": "base1-15",
+    "grade": 1,
+    "valueUsd": 129
+  },
+  {
+    "cardId": "base1-15",
+    "grade": 2,
+    "valueUsd": 60
+  },
+  {
+    "cardId": "base1-15",
+    "grade": 3,
+    "valueUsd": 73
+  },
+  {
+    "cardId": "base1-15",
+    "grade": 4,
+    "valueUsd": 81
+  },
+  {
+    "cardId": "base1-15",
+    "grade": 5,
+    "valueUsd": 108
+  },
+  {
+    "cardId": "base1-15",
+    "grade": 6,
+    "valueUsd": 121
+  },
+  {
+    "cardId": "base1-15",
+    "grade": 7,
+    "valueUsd": 181
+  },
+  {
+    "cardId": "base1-15",
+    "grade": 8,
+    "valueUsd": 298
+  },
+  {
+    "cardId": "base1-15",
+    "grade": 9,
+    "valueUsd": 597
+  },
+  {
+    "cardId": "base1-15",
+    "grade": 10,
+    "valueUsd": 3292
+  },
+  {
+    "cardId": "base1-6",
+    "grade": 1,
+    "valueUsd": 58
+  },
+  {
+    "cardId": "base1-6",
+    "grade": 2,
+    "valueUsd": 43
+  },
+  {
+    "cardId": "base1-6",
+    "grade": 3,
+    "valueUsd": 30
+  },
+  {
+    "cardId": "base1-6",
+    "grade": 4,
+    "valueUsd": 38
+  },
+  {
+    "cardId": "base1-6",
+    "grade": 5,
+    "valueUsd": 42
+  },
+  {
+    "cardId": "base1-6",
+    "grade": 6,
+    "valueUsd": 48
+  },
+  {
+    "cardId": "base1-6",
+    "grade": 7,
+    "valueUsd": 76
+  },
+  {
+    "cardId": "base1-6",
+    "grade": 8,
+    "valueUsd": 120
+  },
+  {
+    "cardId": "base1-6",
+    "grade": 9,
+    "valueUsd": 271
+  },
+  {
+    "cardId": "base1-6",
+    "grade": 10,
+    "valueUsd": 2183
+  },
+  {
+    "cardId": "base1-1",
+    "grade": 1,
+    "valueUsd": 82
+  },
+  {
+    "cardId": "base1-1",
+    "grade": 2,
+    "valueUsd": 56
+  },
+  {
+    "cardId": "base1-1",
+    "grade": 3,
+    "valueUsd": 33
+  },
+  {
+    "cardId": "base1-1",
+    "grade": 4,
+    "valueUsd": 36
+  },
+  {
+    "cardId": "base1-1",
+    "grade": 5,
+    "valueUsd": 52
+  },
+  {
+    "cardId": "base1-1",
+    "grade": 6,
+    "valueUsd": 55
+  },
+  {
+    "cardId": "base1-1",
+    "grade": 7,
+    "valueUsd": 91
+  },
+  {
+    "cardId": "base1-1",
+    "grade": 8,
+    "valueUsd": 152
+  },
+  {
+    "cardId": "base1-1",
+    "grade": 9,
+    "valueUsd": 334
+  },
+  {
+    "cardId": "base1-1",
+    "grade": 10,
+    "valueUsd": 2425
+  },
+  {
+    "cardId": "base1-16",
+    "grade": 1,
+    "valueUsd": 87
+  },
+  {
+    "cardId": "base1-16",
+    "grade": 2,
+    "valueUsd": 57
+  },
+  {
+    "cardId": "base1-16",
+    "grade": 3,
+    "valueUsd": 28
+  },
+  {
+    "cardId": "base1-16",
+    "grade": 4,
+    "valueUsd": 29
+  },
+  {
+    "cardId": "base1-16",
+    "grade": 5,
+    "valueUsd": 37
+  },
+  {
+    "cardId": "base1-16",
+    "grade": 6,
+    "valueUsd": 46
+  },
+  {
+    "cardId": "base1-16",
+    "grade": 7,
+    "valueUsd": 70
+  },
+  {
+    "cardId": "base1-16",
+    "grade": 8,
+    "valueUsd": 115
+  },
+  {
+    "cardId": "base1-16",
+    "grade": 9,
+    "valueUsd": 193
+  },
+  {
+    "cardId": "base1-16",
+    "grade": 10,
+    "valueUsd": 1655
+  },
+  {
+    "cardId": "base1-14",
+    "grade": 1,
+    "valueUsd": 58
+  },
+  {
+    "cardId": "base1-14",
+    "grade": 2,
+    "valueUsd": 44
+  },
+  {
+    "cardId": "base1-14",
+    "grade": 3,
+    "valueUsd": 31
+  },
+  {
+    "cardId": "base1-14",
+    "grade": 4,
+    "valueUsd": 34
+  },
+  {
+    "cardId": "base1-14",
+    "grade": 5,
+    "valueUsd": 40
+  },
+  {
+    "cardId": "base1-14",
+    "grade": 6,
+    "valueUsd": 57
+  },
+  {
+    "cardId": "base1-14",
+    "grade": 7,
+    "valueUsd": 81
+  },
+  {
+    "cardId": "base1-14",
+    "grade": 8,
+    "valueUsd": 155
+  },
+  {
+    "cardId": "base1-14",
+    "grade": 9,
+    "valueUsd": 348
+  },
+  {
+    "cardId": "base1-14",
+    "grade": 10,
+    "valueUsd": 2768
+  },
+  {
+    "cardId": "base1-46",
+    "grade": 1,
+    "valueUsd": 54
+  },
+  {
+    "cardId": "base1-46",
+    "grade": 2,
+    "valueUsd": 37
+  },
+  {
+    "cardId": "base1-46",
+    "grade": 3,
+    "valueUsd": 20
+  },
+  {
+    "cardId": "base1-46",
+    "grade": 4,
+    "valueUsd": 21
+  },
+  {
+    "cardId": "base1-46",
+    "grade": 5,
+    "valueUsd": 20
+  },
+  {
+    "cardId": "base1-46",
+    "grade": 6,
+    "valueUsd": 24
+  },
+  {
+    "cardId": "base1-46",
+    "grade": 7,
+    "valueUsd": 33
+  },
+  {
+    "cardId": "base1-46",
+    "grade": 8,
+    "valueUsd": 42
+  },
+  {
+    "cardId": "base1-46",
+    "grade": 9,
+    "valueUsd": 76
+  },
+  {
+    "cardId": "base1-46",
+    "grade": 10,
+    "valueUsd": 501
+  },
+  {
+    "cardId": "base1-13",
+    "grade": 1,
+    "valueUsd": 61
+  },
+  {
+    "cardId": "base1-13",
+    "grade": 2,
+    "valueUsd": 41
+  },
+  {
+    "cardId": "base1-13",
+    "grade": 3,
+    "valueUsd": 24
+  },
+  {
+    "cardId": "base1-13",
+    "grade": 4,
+    "valueUsd": 21
+  },
+  {
+    "cardId": "base1-13",
+    "grade": 5,
+    "valueUsd": 37
+  },
+  {
+    "cardId": "base1-13",
+    "grade": 6,
+    "valueUsd": 44
+  },
+  {
+    "cardId": "base1-13",
+    "grade": 7,
+    "valueUsd": 58
+  },
+  {
+    "cardId": "base1-13",
+    "grade": 8,
+    "valueUsd": 91
+  },
+  {
+    "cardId": "base1-13",
+    "grade": 9,
+    "valueUsd": 166
+  },
+  {
+    "cardId": "base1-13",
+    "grade": 10,
+    "valueUsd": 1105
+  },
+  {
+    "cardId": "base1-12",
+    "grade": 1,
+    "valueUsd": 66
+  },
+  {
+    "cardId": "base1-12",
+    "grade": 2,
+    "valueUsd": 44
+  },
+  {
+    "cardId": "base1-12",
+    "grade": 3,
+    "valueUsd": 25
+  },
+  {
+    "cardId": "base1-12",
+    "grade": 4,
+    "valueUsd": 25
+  },
+  {
+    "cardId": "base1-12",
+    "grade": 5,
+    "valueUsd": 33
+  },
+  {
+    "cardId": "base1-12",
+    "grade": 6,
+    "valueUsd": 31
+  },
+  {
+    "cardId": "base1-12",
+    "grade": 7,
+    "valueUsd": 55
+  },
+  {
+    "cardId": "base1-12",
+    "grade": 8,
+    "valueUsd": 98
+  },
+  {
+    "cardId": "base1-12",
+    "grade": 9,
+    "valueUsd": 190
+  },
+  {
+    "cardId": "base1-12",
+    "grade": 10,
+    "valueUsd": 1465
+  },
+  {
+    "cardId": "base1-58",
+    "grade": 1,
+    "valueUsd": 105
+  },
+  {
+    "cardId": "base1-58",
+    "grade": 2,
+    "valueUsd": 67
+  },
+  {
+    "cardId": "base1-58",
+    "grade": 3,
+    "valueUsd": 28
+  },
+  {
+    "cardId": "base1-58",
+    "grade": 4,
+    "valueUsd": 42
+  },
+  {
+    "cardId": "base1-58",
+    "grade": 5,
+    "valueUsd": 21
+  },
+  {
+    "cardId": "base1-58",
+    "grade": 6,
+    "valueUsd": 30
+  },
+  {
+    "cardId": "base1-58",
+    "grade": 7,
+    "valueUsd": 34
+  },
+  {
+    "cardId": "base1-58",
+    "grade": 8,
+    "valueUsd": 48
+  },
+  {
+    "cardId": "base1-58",
+    "grade": 9,
+    "valueUsd": 84
+  },
+  {
+    "cardId": "base1-58",
+    "grade": 10,
+    "valueUsd": 521
+  },
+  {
+    "cardId": "base1-11",
+    "grade": 1,
+    "valueUsd": 67
+  },
+  {
+    "cardId": "base1-11",
+    "grade": 2,
+    "valueUsd": 44
+  },
+  {
+    "cardId": "base1-11",
+    "grade": 3,
+    "valueUsd": 22
+  },
+  {
+    "cardId": "base1-11",
+    "grade": 4,
+    "valueUsd": 26
+  },
+  {
+    "cardId": "base1-11",
+    "grade": 5,
+    "valueUsd": 29
+  },
+  {
+    "cardId": "base1-11",
+    "grade": 6,
+    "valueUsd": 39
+  },
+  {
+    "cardId": "base1-11",
+    "grade": 7,
+    "valueUsd": 58
+  },
+  {
+    "cardId": "base1-11",
+    "grade": 8,
+    "valueUsd": 95
+  },
+  {
+    "cardId": "base1-11",
+    "grade": 9,
+    "valueUsd": 213
+  },
+  {
+    "cardId": "base1-11",
+    "grade": 10,
+    "valueUsd": 1117
+  },
+  {
+    "cardId": "base1-3",
+    "grade": 1,
+    "valueUsd": 88
+  },
+  {
+    "cardId": "base1-3",
+    "grade": 2,
+    "valueUsd": 53
+  },
+  {
+    "cardId": "base1-3",
+    "grade": 3,
+    "valueUsd": 23
+  },
+  {
+    "cardId": "base1-3",
+    "grade": 4,
+    "valueUsd": 24
+  },
+  {
+    "cardId": "base1-3",
+    "grade": 5,
+    "valueUsd": 32
+  },
+  {
+    "cardId": "base1-3",
+    "grade": 6,
+    "valueUsd": 41
+  },
+  {
+    "cardId": "base1-3",
+    "grade": 7,
+    "valueUsd": 56
+  },
+  {
+    "cardId": "base1-3",
+    "grade": 8,
+    "valueUsd": 107
+  },
+  {
+    "cardId": "base1-3",
+    "grade": 9,
+    "valueUsd": 348
+  },
+  {
+    "cardId": "base1-3",
+    "grade": 10,
+    "valueUsd": 8354
+  },
+  {
+    "cardId": "base1-63",
+    "grade": 1,
+    "valueUsd": 94
+  },
+  {
+    "cardId": "base1-63",
+    "grade": 2,
+    "valueUsd": 73
+  },
+  {
+    "cardId": "base1-63",
+    "grade": 3,
+    "valueUsd": 54
+  },
+  {
+    "cardId": "base1-63",
+    "grade": 4,
+    "valueUsd": 31
+  },
+  {
+    "cardId": "base1-63",
+    "grade": 5,
+    "valueUsd": 26
+  },
+  {
+    "cardId": "base1-63",
+    "grade": 6,
+    "valueUsd": 34
+  },
+  {
+    "cardId": "base1-63",
+    "grade": 7,
+    "valueUsd": 49
+  },
+  {
+    "cardId": "base1-63",
+    "grade": 8,
+    "valueUsd": 73
+  },
+  {
+    "cardId": "base1-63",
+    "grade": 9,
+    "valueUsd": 120
+  },
+  {
+    "cardId": "base1-63",
+    "grade": 10,
+    "valueUsd": 857
+  },
+  {
+    "cardId": "base1-7",
+    "grade": 1,
+    "valueUsd": 48
+  },
+  {
+    "cardId": "base1-7",
+    "grade": 2,
+    "valueUsd": 31
+  },
+  {
+    "cardId": "base1-7",
+    "grade": 3,
+    "valueUsd": 17
+  },
+  {
+    "cardId": "base1-7",
+    "grade": 4,
+    "valueUsd": 20
+  },
+  {
+    "cardId": "base1-7",
+    "grade": 5,
+    "valueUsd": 25
+  },
+  {
+    "cardId": "base1-7",
+    "grade": 6,
+    "valueUsd": 34
+  },
+  {
+    "cardId": "base1-7",
+    "grade": 7,
+    "valueUsd": 46
+  },
+  {
+    "cardId": "base1-7",
+    "grade": 8,
+    "valueUsd": 72
+  },
+  {
+    "cardId": "base1-7",
+    "grade": 9,
+    "valueUsd": 201
+  },
+  {
+    "cardId": "base1-7",
+    "grade": 10,
+    "valueUsd": 2373
+  },
+  {
+    "cardId": "base1-44",
+    "grade": 5,
+    "valueUsd": 148
+  },
+  {
+    "cardId": "base1-44",
+    "grade": 6,
+    "valueUsd": 162
+  },
+  {
+    "cardId": "base1-44",
+    "grade": 7,
+    "valueUsd": 301
+  },
+  {
+    "cardId": "base1-44",
+    "grade": 8,
+    "valueUsd": 397
+  },
+  {
+    "cardId": "base1-44",
+    "grade": 9,
+    "valueUsd": 885
+  },
+  {
+    "cardId": "base1-44",
+    "grade": 10,
+    "valueUsd": 4985
+  },
+  {
+    "cardId": "base3-4",
+    "grade": 1,
+    "valueUsd": 328
+  },
+  {
+    "cardId": "base3-4",
+    "grade": 2,
+    "valueUsd": 225
+  },
+  {
+    "cardId": "base3-4",
+    "grade": 3,
+    "valueUsd": 164
+  },
+  {
+    "cardId": "base3-4",
+    "grade": 4,
+    "valueUsd": 189
+  },
+  {
+    "cardId": "base3-4",
+    "grade": 5,
+    "valueUsd": 317
+  },
+  {
+    "cardId": "base3-4",
+    "grade": 6,
+    "valueUsd": 400
+  },
+  {
+    "cardId": "base3-4",
+    "grade": 7,
+    "valueUsd": 533
+  },
+  {
+    "cardId": "base3-4",
+    "grade": 8,
+    "valueUsd": 833
+  },
+  {
+    "cardId": "base3-4",
+    "grade": 9,
+    "valueUsd": 2187
+  },
+  {
+    "cardId": "base3-4",
+    "grade": 10,
+    "valueUsd": 18601
+  },
+  {
+    "cardId": "base1-9",
+    "grade": 4,
+    "valueUsd": 39
+  },
+  {
+    "cardId": "base1-9",
+    "grade": 5,
+    "valueUsd": 51
+  },
+  {
+    "cardId": "base1-9",
+    "grade": 6,
+    "valueUsd": 72
+  },
+  {
+    "cardId": "base1-9",
+    "grade": 7,
+    "valueUsd": 99
+  },
+  {
+    "cardId": "base1-9",
+    "grade": 8,
+    "valueUsd": 171
+  },
+  {
+    "cardId": "base1-9",
+    "grade": 9,
+    "valueUsd": 454
+  },
+  {
+    "cardId": "base1-5",
+    "grade": 1,
+    "valueUsd": 56
+  },
+  {
+    "cardId": "base1-5",
+    "grade": 2,
+    "valueUsd": 36
+  },
+  {
+    "cardId": "base1-5",
+    "grade": 3,
+    "valueUsd": 15
+  },
+  {
+    "cardId": "base1-5",
+    "grade": 4,
+    "valueUsd": 23
+  },
+  {
+    "cardId": "base1-5",
+    "grade": 5,
+    "valueUsd": 31
+  },
+  {
+    "cardId": "base1-5",
+    "grade": 6,
+    "valueUsd": 33
+  },
+  {
+    "cardId": "base1-5",
+    "grade": 7,
+    "valueUsd": 53
+  },
+  {
+    "cardId": "base1-5",
+    "grade": 8,
+    "valueUsd": 76
+  },
+  {
+    "cardId": "base1-5",
+    "grade": 9,
+    "valueUsd": 253
+  },
+  {
+    "cardId": "base1-5",
+    "grade": 10,
+    "valueUsd": 4488
+  },
+  {
+    "cardId": "neo1-9",
+    "grade": 1,
+    "valueUsd": 285
+  },
+  {
+    "cardId": "neo1-9",
+    "grade": 2,
+    "valueUsd": 271
+  },
+  {
+    "cardId": "neo1-9",
+    "grade": 3,
+    "valueUsd": 330
+  },
+  {
+    "cardId": "neo1-9",
+    "grade": 4,
+    "valueUsd": 373
+  },
+  {
+    "cardId": "neo1-9",
+    "grade": 5,
+    "valueUsd": 472
+  },
+  {
+    "cardId": "neo1-9",
+    "grade": 6,
+    "valueUsd": 570
+  },
+  {
+    "cardId": "neo1-9",
+    "grade": 7,
+    "valueUsd": 792
+  },
+  {
+    "cardId": "neo1-9",
+    "grade": 8,
+    "valueUsd": 1242
+  },
+  {
+    "cardId": "neo1-9",
+    "grade": 9,
+    "valueUsd": 2733
+  },
+  {
+    "cardId": "base1-24",
+    "grade": 1,
+    "valueUsd": 51
+  },
+  {
+    "cardId": "base1-24",
+    "grade": 2,
+    "valueUsd": 43
+  },
+  {
+    "cardId": "base1-24",
+    "grade": 3,
+    "valueUsd": 31
+  },
+  {
+    "cardId": "base1-24",
+    "grade": 4,
+    "valueUsd": 20
+  },
+  {
+    "cardId": "base1-24",
+    "grade": 5,
+    "valueUsd": 23
+  },
+  {
+    "cardId": "base1-24",
+    "grade": 6,
+    "valueUsd": 25
+  },
+  {
+    "cardId": "base1-24",
+    "grade": 7,
+    "valueUsd": 31
+  },
+  {
+    "cardId": "base1-24",
+    "grade": 8,
+    "valueUsd": 41
+  },
+  {
+    "cardId": "base1-24",
+    "grade": 9,
+    "valueUsd": 83
+  },
+  {
+    "cardId": "base1-24",
+    "grade": 10,
+    "valueUsd": 331
+  },
+  {
+    "cardId": "base2-60",
+    "grade": 1,
+    "valueUsd": 144
+  },
+  {
+    "cardId": "base2-60",
+    "grade": 2,
+    "valueUsd": 82
+  },
+  {
+    "cardId": "base2-60",
+    "grade": 3,
+    "valueUsd": 31
+  },
+  {
+    "cardId": "base2-60",
+    "grade": 4,
+    "valueUsd": 44
+  },
+  {
+    "cardId": "base2-60",
+    "grade": 5,
+    "valueUsd": 37
+  },
+  {
+    "cardId": "base2-60",
+    "grade": 6,
+    "valueUsd": 47
+  },
+  {
+    "cardId": "base2-60",
+    "grade": 7,
+    "valueUsd": 49
+  },
+  {
+    "cardId": "base2-60",
+    "grade": 8,
+    "valueUsd": 71
+  },
+  {
+    "cardId": "base2-60",
+    "grade": 9,
+    "valueUsd": 179
+  },
+  {
+    "cardId": "base2-60",
+    "grade": 10,
+    "valueUsd": 1222
+  },
+  {
+    "cardId": "base2-11",
+    "grade": 1,
+    "valueUsd": 117
+  },
+  {
+    "cardId": "base2-11",
+    "grade": 2,
+    "valueUsd": 82
+  },
+  {
+    "cardId": "base2-11",
+    "grade": 3,
+    "valueUsd": 40
+  },
+  {
+    "cardId": "base2-11",
+    "grade": 4,
+    "valueUsd": 60
+  },
+  {
+    "cardId": "base2-11",
+    "grade": 5,
+    "valueUsd": 87
+  },
+  {
+    "cardId": "base2-11",
+    "grade": 6,
+    "valueUsd": 106
+  },
+  {
+    "cardId": "base2-11",
+    "grade": 7,
+    "valueUsd": 154
+  },
+  {
+    "cardId": "base2-11",
+    "grade": 8,
+    "valueUsd": 293
+  },
+  {
+    "cardId": "base2-11",
+    "grade": 9,
+    "valueUsd": 782
+  },
+  {
+    "cardId": "base3-5",
+    "grade": 1,
+    "valueUsd": 306
+  },
+  {
+    "cardId": "base3-5",
+    "grade": 2,
+    "valueUsd": 244
+  },
+  {
+    "cardId": "base3-5",
+    "grade": 3,
+    "valueUsd": 198
+  },
+  {
+    "cardId": "base3-5",
+    "grade": 4,
+    "valueUsd": 259
+  },
+  {
+    "cardId": "base3-5",
+    "grade": 5,
+    "valueUsd": 341
+  },
+  {
+    "cardId": "base3-5",
+    "grade": 6,
+    "valueUsd": 503
+  },
+  {
+    "cardId": "base3-5",
+    "grade": 7,
+    "valueUsd": 700
+  },
+  {
+    "cardId": "base3-5",
+    "grade": 8,
+    "valueUsd": 1044
+  },
+  {
+    "cardId": "base3-5",
+    "grade": 9,
+    "valueUsd": 2617
+  },
+  {
+    "cardId": "base3-5",
+    "grade": 10,
+    "valueUsd": 14729
+  },
+  {
+    "cardId": "base2-12",
+    "grade": 1,
+    "valueUsd": 126
+  },
+  {
+    "cardId": "base2-12",
+    "grade": 2,
+    "valueUsd": 95
+  },
+  {
+    "cardId": "base2-12",
+    "grade": 3,
+    "valueUsd": 57
+  },
+  {
+    "cardId": "base2-12",
+    "grade": 4,
+    "valueUsd": 69
+  },
+  {
+    "cardId": "base2-12",
+    "grade": 5,
+    "valueUsd": 102
+  },
+  {
+    "cardId": "base2-12",
+    "grade": 6,
+    "valueUsd": 161
+  },
+  {
+    "cardId": "base2-12",
+    "grade": 7,
+    "valueUsd": 253
+  },
+  {
+    "cardId": "base2-12",
+    "grade": 8,
+    "valueUsd": 394
+  },
+  {
+    "cardId": "base2-12",
+    "grade": 9,
+    "valueUsd": 965
+  },
+  {
+    "cardId": "base1-42",
+    "grade": 5,
+    "valueUsd": 21
+  },
+  {
+    "cardId": "base1-42",
+    "grade": 6,
+    "valueUsd": 26
+  },
+  {
+    "cardId": "base1-42",
+    "grade": 7,
+    "valueUsd": 31
+  },
+  {
+    "cardId": "base1-42",
+    "grade": 8,
+    "valueUsd": 39
+  },
+  {
+    "cardId": "base1-42",
+    "grade": 9,
+    "valueUsd": 69
+  },
+  {
+    "cardId": "base1-42",
+    "grade": 10,
+    "valueUsd": 259
+  },
+  {
+    "cardId": "gym2-2",
+    "grade": 1,
+    "valueUsd": 263
+  },
+  {
+    "cardId": "gym2-2",
+    "grade": 2,
+    "valueUsd": 250
+  },
+  {
+    "cardId": "gym2-2",
+    "grade": 3,
+    "valueUsd": 324
+  },
+  {
+    "cardId": "gym2-2",
+    "grade": 4,
+    "valueUsd": 295
+  },
+  {
+    "cardId": "gym2-2",
+    "grade": 5,
+    "valueUsd": 387
+  },
+  {
+    "cardId": "gym2-2",
+    "grade": 6,
+    "valueUsd": 463
+  },
+  {
+    "cardId": "gym2-2",
+    "grade": 7,
+    "valueUsd": 588
+  },
+  {
+    "cardId": "gym2-2",
+    "grade": 8,
+    "valueUsd": 751
+  },
+  {
+    "cardId": "gym2-2",
+    "grade": 9,
+    "valueUsd": 1405
+  },
+  {
+    "cardId": "gym2-2",
+    "grade": 10,
+    "valueUsd": 6164
+  },
+  {
+    "cardId": "base5-4",
+    "grade": 1,
+    "valueUsd": 184
+  },
+  {
+    "cardId": "base5-4",
+    "grade": 2,
+    "valueUsd": 126
+  },
+  {
+    "cardId": "base5-4",
+    "grade": 3,
+    "valueUsd": 149
+  },
+  {
+    "cardId": "base5-4",
+    "grade": 4,
+    "valueUsd": 202
+  },
+  {
+    "cardId": "base5-4",
+    "grade": 5,
+    "valueUsd": 259
+  },
+  {
+    "cardId": "base5-4",
+    "grade": 6,
+    "valueUsd": 267
+  },
+  {
+    "cardId": "base5-4",
+    "grade": 7,
+    "valueUsd": 367
+  },
+  {
+    "cardId": "base5-4",
+    "grade": 8,
+    "valueUsd": 525
+  },
+  {
+    "cardId": "base5-4",
+    "grade": 9,
+    "valueUsd": 914
+  },
+  {
+    "cardId": "base5-4",
+    "grade": 10,
+    "valueUsd": 5766
+  },
+  {
+    "cardId": "base1-30",
+    "grade": 5,
+    "valueUsd": 69
+  },
+  {
+    "cardId": "base1-30",
+    "grade": 6,
+    "valueUsd": 115
+  },
+  {
+    "cardId": "base1-30",
+    "grade": 7,
+    "valueUsd": 93
+  },
+  {
+    "cardId": "base1-30",
+    "grade": 8,
+    "valueUsd": 183
+  },
+  {
+    "cardId": "base1-30",
+    "grade": 9,
+    "valueUsd": 420
+  },
+  {
+    "cardId": "base1-30",
+    "grade": 10,
+    "valueUsd": 2417
+  },
+  {
+    "cardId": "base3-12",
+    "grade": 1,
+    "valueUsd": 100
+  },
+  {
+    "cardId": "base3-12",
+    "grade": 2,
+    "valueUsd": 88
+  },
+  {
+    "cardId": "base3-12",
+    "grade": 3,
+    "valueUsd": 73
+  },
+  {
+    "cardId": "base3-12",
+    "grade": 4,
+    "valueUsd": 65
+  },
+  {
+    "cardId": "base3-12",
+    "grade": 5,
+    "valueUsd": 75
+  },
+  {
+    "cardId": "base3-12",
+    "grade": 6,
+    "valueUsd": 109
+  },
+  {
+    "cardId": "base3-12",
+    "grade": 7,
+    "valueUsd": 174
+  },
+  {
+    "cardId": "base3-12",
+    "grade": 8,
+    "valueUsd": 228
+  },
+  {
+    "cardId": "base3-12",
+    "grade": 9,
+    "valueUsd": 622
+  },
+  {
+    "cardId": "base3-12",
+    "grade": 10,
+    "valueUsd": 4612
+  },
+  {
+    "cardId": "neo3-65",
+    "grade": 1,
+    "valueUsd": 489
+  },
+  {
+    "cardId": "neo3-65",
+    "grade": 2,
+    "valueUsd": 498
+  },
+  {
+    "cardId": "neo3-65",
+    "grade": 3,
+    "valueUsd": 477
+  },
+  {
+    "cardId": "neo3-65",
+    "grade": 4,
+    "valueUsd": 720
+  },
+  {
+    "cardId": "neo3-65",
+    "grade": 5,
+    "valueUsd": 856
+  },
+  {
+    "cardId": "neo3-65",
+    "grade": 6,
+    "valueUsd": 1031
+  },
+  {
+    "cardId": "neo3-65",
+    "grade": 7,
+    "valueUsd": 1477
+  },
+  {
+    "cardId": "neo3-65",
+    "grade": 8,
+    "valueUsd": 2017
+  },
+  {
+    "cardId": "neo3-65",
+    "grade": 9,
+    "valueUsd": 3129
+  },
+  {
+    "cardId": "base2-3",
+    "grade": 4,
+    "valueUsd": 83
+  },
+  {
+    "cardId": "base2-3",
+    "grade": 5,
+    "valueUsd": 97
+  },
+  {
+    "cardId": "base2-3",
+    "grade": 6,
+    "valueUsd": 152
+  },
+  {
+    "cardId": "base2-3",
+    "grade": 7,
+    "valueUsd": 216
+  },
+  {
+    "cardId": "base2-3",
+    "grade": 8,
+    "valueUsd": 452
+  },
+  {
+    "cardId": "base2-3",
+    "grade": 9,
+    "valueUsd": 1090
+  },
+  {
+    "cardId": "base2-3",
+    "grade": 10,
+    "valueUsd": 6221
+  },
+  {
+    "cardId": "base3-2",
+    "grade": 1,
+    "valueUsd": 71
+  },
+  {
+    "cardId": "base3-2",
+    "grade": 2,
+    "valueUsd": 48
+  },
+  {
+    "cardId": "base3-2",
+    "grade": 3,
+    "valueUsd": 24
+  },
+  {
+    "cardId": "base3-2",
+    "grade": 4,
+    "valueUsd": 30
+  },
+  {
+    "cardId": "base3-2",
+    "grade": 5,
+    "valueUsd": 34
+  },
+  {
+    "cardId": "base3-2",
+    "grade": 6,
+    "valueUsd": 45
+  },
+  {
+    "cardId": "base3-2",
+    "grade": 7,
+    "valueUsd": 72
+  },
+  {
+    "cardId": "base3-2",
+    "grade": 8,
+    "valueUsd": 136
+  },
+  {
+    "cardId": "base3-2",
+    "grade": 9,
+    "valueUsd": 253
+  },
+  {
+    "cardId": "base3-2",
+    "grade": 10,
+    "valueUsd": 2920
+  },
+  {
+    "cardId": "gym1-14",
+    "grade": 1,
+    "valueUsd": 285
+  },
+  {
+    "cardId": "gym1-14",
+    "grade": 2,
+    "valueUsd": 185
+  },
+  {
+    "cardId": "gym1-14",
+    "grade": 3,
+    "valueUsd": 259
+  },
+  {
+    "cardId": "gym1-14",
+    "grade": 4,
+    "valueUsd": 305
+  },
+  {
+    "cardId": "gym1-14",
+    "grade": 5,
+    "valueUsd": 368
+  },
+  {
+    "cardId": "gym1-14",
+    "grade": 6,
+    "valueUsd": 432
+  },
+  {
+    "cardId": "gym1-14",
+    "grade": 7,
+    "valueUsd": 571
+  },
+  {
+    "cardId": "gym1-14",
+    "grade": 8,
+    "valueUsd": 860
+  },
+  {
+    "cardId": "gym1-14",
+    "grade": 9,
+    "valueUsd": 1584
+  },
+  {
+    "cardId": "gym1-14",
+    "grade": 10,
+    "valueUsd": 10904
+  },
+  {
+    "cardId": "neo2-13",
+    "grade": 1,
+    "valueUsd": 256
+  },
+  {
+    "cardId": "neo2-13",
+    "grade": 2,
+    "valueUsd": 267
+  },
+  {
+    "cardId": "neo2-13",
+    "grade": 3,
+    "valueUsd": 249
+  },
+  {
+    "cardId": "neo2-13",
+    "grade": 4,
+    "valueUsd": 273
+  },
+  {
+    "cardId": "neo2-13",
+    "grade": 5,
+    "valueUsd": 398
+  },
+  {
+    "cardId": "neo2-13",
+    "grade": 6,
+    "valueUsd": 573
+  },
+  {
+    "cardId": "neo2-13",
+    "grade": 7,
+    "valueUsd": 754
+  },
+  {
+    "cardId": "neo2-13",
+    "grade": 8,
+    "valueUsd": 1057
+  },
+  {
+    "cardId": "neo2-13",
+    "grade": 9,
+    "valueUsd": 2321
+  },
+  {
+    "cardId": "neo2-13",
+    "grade": 10,
+    "valueUsd": 14471
+  },
+  {
+    "cardId": "base2-10",
+    "grade": 1,
+    "valueUsd": 110
+  },
+  {
+    "cardId": "base2-10",
+    "grade": 2,
+    "valueUsd": 91
+  },
+  {
+    "cardId": "base2-10",
+    "grade": 3,
+    "valueUsd": 67
+  },
+  {
+    "cardId": "base2-10",
+    "grade": 4,
+    "valueUsd": 47
+  },
+  {
+    "cardId": "base2-10",
+    "grade": 5,
+    "valueUsd": 71
+  },
+  {
+    "cardId": "base2-10",
+    "grade": 6,
+    "valueUsd": 92
+  },
+  {
+    "cardId": "base2-10",
+    "grade": 7,
+    "valueUsd": 139
+  },
+  {
+    "cardId": "base2-10",
+    "grade": 8,
+    "valueUsd": 201
+  },
+  {
+    "cardId": "base2-10",
+    "grade": 9,
+    "valueUsd": 564
+  },
+  {
+    "cardId": "base2-10",
+    "grade": 10,
+    "valueUsd": 6063
+  },
+  {
+    "cardId": "neo3-66",
+    "grade": 1,
+    "valueUsd": 281
+  },
+  {
+    "cardId": "neo3-66",
+    "grade": 2,
+    "valueUsd": 258
+  },
+  {
+    "cardId": "neo3-66",
+    "grade": 3,
+    "valueUsd": 323
+  },
+  {
+    "cardId": "neo3-66",
+    "grade": 4,
+    "valueUsd": 320
+  },
+  {
+    "cardId": "neo3-66",
+    "grade": 5,
+    "valueUsd": 419
+  },
+  {
+    "cardId": "neo3-66",
+    "grade": 6,
+    "valueUsd": 505
+  },
+  {
+    "cardId": "neo3-66",
+    "grade": 7,
+    "valueUsd": 662
+  },
+  {
+    "cardId": "neo3-66",
+    "grade": 8,
+    "valueUsd": 916
+  },
+  {
+    "cardId": "neo3-66",
+    "grade": 9,
+    "valueUsd": 1385
+  },
+  {
+    "cardId": "base2-4",
+    "grade": 1,
+    "valueUsd": 66
+  },
+  {
+    "cardId": "base2-4",
+    "grade": 2,
+    "valueUsd": 54
+  },
+  {
+    "cardId": "base2-4",
+    "grade": 3,
+    "valueUsd": 49
+  },
+  {
+    "cardId": "base2-4",
+    "grade": 4,
+    "valueUsd": 39
+  },
+  {
+    "cardId": "base2-4",
+    "grade": 5,
+    "valueUsd": 47
+  },
+  {
+    "cardId": "base2-4",
+    "grade": 6,
+    "valueUsd": 53
+  },
+  {
+    "cardId": "base2-4",
+    "grade": 7,
+    "valueUsd": 82
+  },
+  {
+    "cardId": "base2-4",
+    "grade": 8,
+    "valueUsd": 128
+  },
+  {
+    "cardId": "base2-4",
+    "grade": 9,
+    "valueUsd": 235
+  },
+  {
+    "cardId": "base3-20",
+    "grade": 1,
+    "valueUsd": 141
+  },
+  {
+    "cardId": "base3-20",
+    "grade": 2,
+    "valueUsd": 126
+  },
+  {
+    "cardId": "base3-20",
+    "grade": 3,
+    "valueUsd": 116
+  },
+  {
+    "cardId": "base3-20",
+    "grade": 4,
+    "valueUsd": 101
+  },
+  {
+    "cardId": "base3-20",
+    "grade": 5,
+    "valueUsd": 84
+  },
+  {
+    "cardId": "base3-20",
+    "grade": 6,
+    "valueUsd": 99
+  },
+  {
+    "cardId": "base3-20",
+    "grade": 7,
+    "valueUsd": 155
+  },
+  {
+    "cardId": "base3-20",
+    "grade": 8,
+    "valueUsd": 233
+  },
+  {
+    "cardId": "base3-20",
+    "grade": 9,
+    "valueUsd": 412
+  },
+  {
+    "cardId": "base3-20",
+    "grade": 10,
+    "valueUsd": 2557
+  },
+  {
+    "cardId": "base3-6",
+    "grade": 1,
+    "valueUsd": 126
+  },
+  {
+    "cardId": "base3-6",
+    "grade": 2,
+    "valueUsd": 107
+  },
+  {
+    "cardId": "base3-6",
+    "grade": 3,
+    "valueUsd": 92
+  },
+  {
+    "cardId": "base3-6",
+    "grade": 4,
+    "valueUsd": 71
+  },
+  {
+    "cardId": "base3-6",
+    "grade": 5,
+    "valueUsd": 55
+  },
+  {
+    "cardId": "base3-6",
+    "grade": 6,
+    "valueUsd": 74
+  },
+  {
+    "cardId": "base3-6",
+    "grade": 7,
+    "valueUsd": 131
+  },
+  {
+    "cardId": "base3-6",
+    "grade": 8,
+    "valueUsd": 197
+  },
+  {
+    "cardId": "base3-6",
+    "grade": 9,
+    "valueUsd": 387
+  },
+  {
+    "cardId": "base3-6",
+    "grade": 10,
+    "valueUsd": 3186
+  },
+  {
+    "cardId": "base2-8",
+    "grade": 5,
+    "valueUsd": 59
+  },
+  {
+    "cardId": "base2-8",
+    "grade": 6,
+    "valueUsd": 74
+  },
+  {
+    "cardId": "base2-8",
+    "grade": 7,
+    "valueUsd": 103
+  },
+  {
+    "cardId": "base2-8",
+    "grade": 8,
+    "valueUsd": 190
+  },
+  {
+    "cardId": "base2-8",
+    "grade": 9,
+    "valueUsd": 462
+  },
+  {
+    "cardId": "base2-8",
+    "grade": 10,
+    "valueUsd": 7098
+  },
+  {
+    "cardId": "base3-10",
+    "grade": 1,
+    "valueUsd": 70
+  },
+  {
+    "cardId": "base3-10",
+    "grade": 2,
+    "valueUsd": 44
+  },
+  {
+    "cardId": "base3-10",
+    "grade": 3,
+    "valueUsd": 19
+  },
+  {
+    "cardId": "base3-10",
+    "grade": 4,
+    "valueUsd": 25
+  },
+  {
+    "cardId": "base3-10",
+    "grade": 5,
+    "valueUsd": 27
+  },
+  {
+    "cardId": "base3-10",
+    "grade": 6,
+    "valueUsd": 30
+  },
+  {
+    "cardId": "base3-10",
+    "grade": 7,
+    "valueUsd": 44
+  },
+  {
+    "cardId": "base3-10",
+    "grade": 8,
+    "valueUsd": 74
+  },
+  {
+    "cardId": "base3-10",
+    "grade": 9,
+    "valueUsd": 181
+  },
+  {
+    "cardId": "base3-10",
+    "grade": 10,
+    "valueUsd": 4144
+  },
+  {
+    "cardId": "base3-19",
+    "grade": 1,
+    "valueUsd": 55
+  },
+  {
+    "cardId": "base3-19",
+    "grade": 2,
+    "valueUsd": 48
+  },
+  {
+    "cardId": "base3-19",
+    "grade": 3,
+    "valueUsd": 38
+  },
+  {
+    "cardId": "base3-19",
+    "grade": 4,
+    "valueUsd": 31
+  },
+  {
+    "cardId": "base3-19",
+    "grade": 5,
+    "valueUsd": 25
+  },
+  {
+    "cardId": "base3-19",
+    "grade": 6,
+    "valueUsd": 30
+  },
+  {
+    "cardId": "base3-19",
+    "grade": 7,
+    "valueUsd": 47
+  },
+  {
+    "cardId": "base3-19",
+    "grade": 8,
+    "valueUsd": 60
+  },
+  {
+    "cardId": "base3-19",
+    "grade": 9,
+    "valueUsd": 125
+  },
+  {
+    "cardId": "base3-19",
+    "grade": 10,
+    "valueUsd": 905
+  },
+  {
+    "cardId": "base2-6",
+    "grade": 4,
+    "valueUsd": 32
+  },
+  {
+    "cardId": "base2-6",
+    "grade": 5,
+    "valueUsd": 51
+  },
+  {
+    "cardId": "base2-6",
+    "grade": 6,
+    "valueUsd": 56
+  },
+  {
+    "cardId": "base2-6",
+    "grade": 7,
+    "valueUsd": 94
+  },
+  {
+    "cardId": "base2-6",
+    "grade": 8,
+    "valueUsd": 155
+  },
+  {
+    "cardId": "base2-6",
+    "grade": 9,
+    "valueUsd": 389
+  },
+  {
+    "cardId": "base2-6",
+    "grade": 10,
+    "valueUsd": 5207
+  },
+  {
+    "cardId": "gym2-1",
+    "grade": 1,
+    "valueUsd": 100
+  },
+  {
+    "cardId": "gym2-1",
+    "grade": 2,
+    "valueUsd": 82
+  },
+  {
+    "cardId": "gym2-1",
+    "grade": 3,
+    "valueUsd": 68
+  },
+  {
+    "cardId": "gym2-1",
+    "grade": 4,
+    "valueUsd": 54
+  },
+  {
+    "cardId": "gym2-1",
+    "grade": 5,
+    "valueUsd": 72
+  },
+  {
+    "cardId": "gym2-1",
+    "grade": 6,
+    "valueUsd": 81
+  },
+  {
+    "cardId": "gym2-1",
+    "grade": 7,
+    "valueUsd": 137
+  },
+  {
+    "cardId": "gym2-1",
+    "grade": 8,
+    "valueUsd": 205
+  },
+  {
+    "cardId": "gym2-1",
+    "grade": 9,
+    "valueUsd": 388
+  },
+  {
+    "cardId": "base3-3",
+    "grade": 5,
+    "valueUsd": 65
+  },
+  {
+    "cardId": "base3-3",
+    "grade": 6,
+    "valueUsd": 68
+  },
+  {
+    "cardId": "base3-3",
+    "grade": 7,
+    "valueUsd": 100
+  },
+  {
+    "cardId": "base3-3",
+    "grade": 8,
+    "valueUsd": 182
+  },
+  {
+    "cardId": "base3-3",
+    "grade": 9,
+    "valueUsd": 410
+  },
+  {
+    "cardId": "base3-3",
+    "grade": 10,
+    "valueUsd": 4008
+  },
+  {
+    "cardId": "base3-13",
+    "grade": 1,
+    "valueUsd": 42
+  },
+  {
+    "cardId": "base3-13",
+    "grade": 2,
+    "valueUsd": 33
+  },
+  {
+    "cardId": "base3-13",
+    "grade": 3,
+    "valueUsd": 25
+  },
+  {
+    "cardId": "base3-13",
+    "grade": 4,
+    "valueUsd": 15
+  },
+  {
+    "cardId": "base3-13",
+    "grade": 5,
+    "valueUsd": 19
+  },
+  {
+    "cardId": "base3-13",
+    "grade": 6,
+    "valueUsd": 20
+  },
+  {
+    "cardId": "base3-13",
+    "grade": 7,
+    "valueUsd": 26
+  },
+  {
+    "cardId": "base3-13",
+    "grade": 8,
+    "valueUsd": 39
+  },
+  {
+    "cardId": "base3-13",
+    "grade": 9,
+    "valueUsd": 59
+  },
+  {
+    "cardId": "base3-13",
+    "grade": 10,
+    "valueUsd": 428
+  },
+  {
+    "cardId": "base3-9",
+    "grade": 4,
+    "valueUsd": 51
+  },
+  {
+    "cardId": "base3-9",
+    "grade": 5,
+    "valueUsd": 58
+  },
+  {
+    "cardId": "base3-9",
+    "grade": 6,
+    "valueUsd": 75
+  },
+  {
+    "cardId": "base3-9",
+    "grade": 7,
+    "valueUsd": 113
+  },
+  {
+    "cardId": "base3-9",
+    "grade": 8,
+    "valueUsd": 156
+  },
+  {
+    "cardId": "base3-9",
+    "grade": 9,
+    "valueUsd": 345
+  },
+  {
+    "cardId": "base3-9",
+    "grade": 10,
+    "valueUsd": 3875
+  },
+  {
+    "cardId": "base3-8",
+    "grade": 3,
+    "valueUsd": 34
+  },
+  {
+    "cardId": "base3-8",
+    "grade": 4,
+    "valueUsd": 41
+  },
+  {
+    "cardId": "base3-8",
+    "grade": 5,
+    "valueUsd": 45
+  },
+  {
+    "cardId": "base3-8",
+    "grade": 6,
+    "valueUsd": 52
+  },
+  {
+    "cardId": "base3-8",
+    "grade": 7,
+    "valueUsd": 69
+  },
+  {
+    "cardId": "base3-8",
+    "grade": 8,
+    "valueUsd": 119
+  },
+  {
+    "cardId": "base3-8",
+    "grade": 9,
+    "valueUsd": 262
+  },
+  {
+    "cardId": "base3-8",
+    "grade": 10,
+    "valueUsd": 1972
+  },
+  {
+    "cardId": "base2-5",
+    "grade": 1,
+    "valueUsd": 51
+  },
+  {
+    "cardId": "base2-5",
+    "grade": 2,
+    "valueUsd": 20
+  },
+  {
+    "cardId": "base2-5",
+    "grade": 3,
+    "valueUsd": 15
+  },
+  {
+    "cardId": "base2-5",
+    "grade": 4,
+    "valueUsd": 21
+  },
+  {
+    "cardId": "base2-5",
+    "grade": 5,
+    "valueUsd": 21
+  },
+  {
+    "cardId": "base2-5",
+    "grade": 6,
+    "valueUsd": 25
+  },
+  {
+    "cardId": "base2-5",
+    "grade": 7,
+    "valueUsd": 35
+  },
+  {
+    "cardId": "base2-5",
+    "grade": 8,
+    "valueUsd": 64
+  },
+  {
+    "cardId": "base2-5",
+    "grade": 9,
+    "valueUsd": 137
+  },
+  {
+    "cardId": "neo4-107",
+    "grade": 1,
+    "valueUsd": 1054
+  },
+  {
+    "cardId": "neo4-107",
+    "grade": 2,
+    "valueUsd": 1034
+  },
+  {
+    "cardId": "neo4-107",
+    "grade": 3,
+    "valueUsd": 1298
+  },
+  {
+    "cardId": "neo4-107",
+    "grade": 4,
+    "valueUsd": 1568
+  },
+  {
+    "cardId": "neo4-107",
+    "grade": 5,
+    "valueUsd": 1742
+  },
+  {
+    "cardId": "neo4-107",
+    "grade": 6,
+    "valueUsd": 2260
+  },
+  {
+    "cardId": "neo4-107",
+    "grade": 7,
+    "valueUsd": 2845
+  },
+  {
+    "cardId": "neo4-107",
+    "grade": 8,
+    "valueUsd": 3638
+  },
+  {
+    "cardId": "neo4-107",
+    "grade": 9,
+    "valueUsd": 5344
+  },
+  {
+    "cardId": "neo4-107",
+    "grade": 10,
+    "valueUsd": 14811
+  },
+  {
+    "cardId": "gym2-14",
+    "grade": 1,
+    "valueUsd": 131
+  },
+  {
+    "cardId": "gym2-14",
+    "grade": 2,
+    "valueUsd": 78
+  },
+  {
+    "cardId": "gym2-14",
+    "grade": 3,
+    "valueUsd": 122
+  },
+  {
+    "cardId": "gym2-14",
+    "grade": 4,
+    "valueUsd": 117
+  },
+  {
+    "cardId": "gym2-14",
+    "grade": 5,
+    "valueUsd": 131
+  },
+  {
+    "cardId": "gym2-14",
+    "grade": 6,
+    "valueUsd": 204
+  },
+  {
+    "cardId": "gym2-14",
+    "grade": 7,
+    "valueUsd": 283
+  },
+  {
+    "cardId": "gym2-14",
+    "grade": 8,
+    "valueUsd": 389
+  },
+  {
+    "cardId": "gym2-14",
+    "grade": 9,
+    "valueUsd": 638
+  },
+  {
+    "cardId": "gym2-14",
+    "grade": 10,
+    "valueUsd": 4439
+  },
+  {
+    "cardId": "base3-1",
+    "grade": 4,
+    "valueUsd": 60
+  },
+  {
+    "cardId": "base3-1",
+    "grade": 5,
+    "valueUsd": 51
+  },
+  {
+    "cardId": "base3-1",
+    "grade": 6,
+    "valueUsd": 64
+  },
+  {
+    "cardId": "base3-1",
+    "grade": 7,
+    "valueUsd": 80
+  },
+  {
+    "cardId": "base3-1",
+    "grade": 8,
+    "valueUsd": 152
+  },
+  {
+    "cardId": "base3-1",
+    "grade": 9,
+    "valueUsd": 318
+  },
+  {
+    "cardId": "base3-1",
+    "grade": 10,
+    "valueUsd": 5168
+  },
+  {
+    "cardId": "base6-3",
+    "grade": 1,
+    "valueUsd": 2089
+  },
+  {
+    "cardId": "base6-3",
+    "grade": 2,
+    "valueUsd": 1683
+  },
+  {
+    "cardId": "base6-3",
+    "grade": 3,
+    "valueUsd": 2526
+  },
+  {
+    "cardId": "base6-3",
+    "grade": 4,
+    "valueUsd": 3321
+  },
+  {
+    "cardId": "base6-3",
+    "grade": 5,
+    "valueUsd": 3459
+  },
+  {
+    "cardId": "base6-3",
+    "grade": 6,
+    "valueUsd": 4632
+  },
+  {
+    "cardId": "base6-3",
+    "grade": 7,
+    "valueUsd": 5982
+  },
+  {
+    "cardId": "base6-3",
+    "grade": 8,
+    "valueUsd": 8667
+  },
+  {
+    "cardId": "base6-3",
+    "grade": 9,
+    "valueUsd": 14511
+  },
+  {
+    "cardId": "base3-14",
+    "grade": 1,
+    "valueUsd": 68
+  },
+  {
+    "cardId": "base3-14",
+    "grade": 2,
+    "valueUsd": 47
+  },
+  {
+    "cardId": "base3-14",
+    "grade": 3,
+    "valueUsd": 25
+  },
+  {
+    "cardId": "base3-14",
+    "grade": 4,
+    "valueUsd": 35
+  },
+  {
+    "cardId": "base3-14",
+    "grade": 5,
+    "valueUsd": 32
+  },
+  {
+    "cardId": "base3-14",
+    "grade": 6,
+    "valueUsd": 40
+  },
+  {
+    "cardId": "base3-14",
+    "grade": 7,
+    "valueUsd": 54
+  },
+  {
+    "cardId": "base3-14",
+    "grade": 8,
+    "valueUsd": 93
+  },
+  {
+    "cardId": "base3-14",
+    "grade": 9,
+    "valueUsd": 170
+  },
+  {
+    "cardId": "base5-21",
+    "grade": 1,
+    "valueUsd": 101
+  },
+  {
+    "cardId": "base5-21",
+    "grade": 2,
+    "valueUsd": 77
+  },
+  {
+    "cardId": "base5-21",
+    "grade": 3,
+    "valueUsd": 49
+  },
+  {
+    "cardId": "base5-21",
+    "grade": 4,
+    "valueUsd": 68
+  },
+  {
+    "cardId": "base5-21",
+    "grade": 5,
+    "valueUsd": 69
+  },
+  {
+    "cardId": "base5-21",
+    "grade": 6,
+    "valueUsd": 68
+  },
+  {
+    "cardId": "base5-21",
+    "grade": 7,
+    "valueUsd": 98
+  },
+  {
+    "cardId": "base5-21",
+    "grade": 8,
+    "valueUsd": 169
+  },
+  {
+    "cardId": "base5-21",
+    "grade": 9,
+    "valueUsd": 289
+  },
+  {
+    "cardId": "base5-21",
+    "grade": 10,
+    "valueUsd": 1546
+  },
+  {
+    "cardId": "gym2-29",
+    "grade": 3,
+    "valueUsd": 145
+  },
+  {
+    "cardId": "gym2-29",
+    "grade": 4,
+    "valueUsd": 132
+  },
+  {
+    "cardId": "gym2-29",
+    "grade": 5,
+    "valueUsd": 132
+  },
+  {
+    "cardId": "gym2-29",
+    "grade": 6,
+    "valueUsd": 154
+  },
+  {
+    "cardId": "gym2-29",
+    "grade": 7,
+    "valueUsd": 223
+  },
+  {
+    "cardId": "gym2-29",
+    "grade": 8,
+    "valueUsd": 328
+  },
+  {
+    "cardId": "gym2-29",
+    "grade": 9,
+    "valueUsd": 497
+  },
+  {
+    "cardId": "gym2-29",
+    "grade": 10,
+    "valueUsd": 3508
+  },
+  {
+    "cardId": "base2-7",
+    "grade": 4,
+    "valueUsd": 37
+  },
+  {
+    "cardId": "base2-7",
+    "grade": 5,
+    "valueUsd": 48
+  },
+  {
+    "cardId": "base2-7",
+    "grade": 6,
+    "valueUsd": 70
+  },
+  {
+    "cardId": "base2-7",
+    "grade": 7,
+    "valueUsd": 87
+  },
+  {
+    "cardId": "base2-7",
+    "grade": 8,
+    "valueUsd": 144
+  },
+  {
+    "cardId": "base2-7",
+    "grade": 9,
+    "valueUsd": 351
+  },
+  {
+    "cardId": "base2-7",
+    "grade": 10,
+    "valueUsd": 4272
+  },
+  {
+    "cardId": "gym2-16",
+    "grade": 1,
+    "valueUsd": 69
+  },
+  {
+    "cardId": "gym2-16",
+    "grade": 2,
+    "valueUsd": 53
+  },
+  {
+    "cardId": "gym2-16",
+    "grade": 3,
+    "valueUsd": 32
+  },
+  {
+    "cardId": "gym2-16",
+    "grade": 4,
+    "valueUsd": 35
+  },
+  {
+    "cardId": "gym2-16",
+    "grade": 5,
+    "valueUsd": 45
+  },
+  {
+    "cardId": "gym2-16",
+    "grade": 6,
+    "valueUsd": 57
+  },
+  {
+    "cardId": "gym2-16",
+    "grade": 7,
+    "valueUsd": 90
+  },
+  {
+    "cardId": "gym2-16",
+    "grade": 8,
+    "valueUsd": 140
+  },
+  {
+    "cardId": "gym2-16",
+    "grade": 9,
+    "valueUsd": 209
+  },
+  {
+    "cardId": "gym2-16",
+    "grade": 10,
+    "valueUsd": 1171
+  },
+  {
+    "cardId": "gym1-3",
+    "grade": 5,
+    "valueUsd": 58
+  },
+  {
+    "cardId": "gym1-3",
+    "grade": 6,
+    "valueUsd": 60
+  },
+  {
+    "cardId": "gym1-3",
+    "grade": 7,
+    "valueUsd": 88
+  },
+  {
+    "cardId": "gym1-3",
+    "grade": 8,
+    "valueUsd": 167
+  },
+  {
+    "cardId": "gym1-3",
+    "grade": 9,
+    "valueUsd": 310
+  },
+  {
+    "cardId": "gym1-3",
+    "grade": 10,
+    "valueUsd": 2529
+  },
+  {
+    "cardId": "base2-15",
+    "grade": 4,
+    "valueUsd": 24
+  },
+  {
+    "cardId": "base2-15",
+    "grade": 5,
+    "valueUsd": 44
+  },
+  {
+    "cardId": "base2-15",
+    "grade": 6,
+    "valueUsd": 47
+  },
+  {
+    "cardId": "base2-15",
+    "grade": 7,
+    "valueUsd": 69
+  },
+  {
+    "cardId": "base2-15",
+    "grade": 8,
+    "valueUsd": 136
+  },
+  {
+    "cardId": "base2-15",
+    "grade": 9,
+    "valueUsd": 316
+  },
+  {
+    "cardId": "base2-15",
+    "grade": 10,
+    "valueUsd": 2587
+  },
+  {
+    "cardId": "neo4-109",
+    "grade": 1,
+    "valueUsd": 544
+  },
+  {
+    "cardId": "neo4-109",
+    "grade": 2,
+    "valueUsd": 481
+  },
+  {
+    "cardId": "neo4-109",
+    "grade": 3,
+    "valueUsd": 640
+  },
+  {
+    "cardId": "neo4-109",
+    "grade": 4,
+    "valueUsd": 690
+  },
+  {
+    "cardId": "neo4-109",
+    "grade": 5,
+    "valueUsd": 947
+  },
+  {
+    "cardId": "neo4-109",
+    "grade": 6,
+    "valueUsd": 943
+  },
+  {
+    "cardId": "neo4-109",
+    "grade": 7,
+    "valueUsd": 1381
+  },
+  {
+    "cardId": "neo4-109",
+    "grade": 8,
+    "valueUsd": 2213
+  },
+  {
+    "cardId": "neo4-109",
+    "grade": 9,
+    "valueUsd": 3826
+  },
+  {
+    "cardId": "neo4-109",
+    "grade": 10,
+    "valueUsd": 10293
+  },
+  {
+    "cardId": "base2-2",
+    "grade": 5,
+    "valueUsd": 44
+  },
+  {
+    "cardId": "base2-2",
+    "grade": 6,
+    "valueUsd": 48
+  },
+  {
+    "cardId": "base2-2",
+    "grade": 7,
+    "valueUsd": 74
+  },
+  {
+    "cardId": "base2-2",
+    "grade": 8,
+    "valueUsd": 113
+  },
+  {
+    "cardId": "base2-2",
+    "grade": 9,
+    "valueUsd": 240
+  },
+  {
+    "cardId": "base2-2",
+    "grade": 10,
+    "valueUsd": 2019
+  },
+  {
+    "cardId": "base2-1",
+    "grade": 4,
+    "valueUsd": 43
+  },
+  {
+    "cardId": "base2-1",
+    "grade": 5,
+    "valueUsd": 48
+  },
+  {
+    "cardId": "base2-1",
+    "grade": 6,
+    "valueUsd": 61
+  },
+  {
+    "cardId": "base2-1",
+    "grade": 7,
+    "valueUsd": 97
+  },
+  {
+    "cardId": "base2-1",
+    "grade": 8,
+    "valueUsd": 130
+  },
+  {
+    "cardId": "base2-1",
+    "grade": 9,
+    "valueUsd": 326
+  },
+  {
+    "cardId": "base2-13",
+    "grade": 5,
+    "valueUsd": 39
+  },
+  {
+    "cardId": "base2-13",
+    "grade": 6,
+    "valueUsd": 46
+  },
+  {
+    "cardId": "base2-13",
+    "grade": 7,
+    "valueUsd": 69
+  },
+  {
+    "cardId": "base2-13",
+    "grade": 8,
+    "valueUsd": 116
+  },
+  {
+    "cardId": "base2-13",
+    "grade": 9,
+    "valueUsd": 308
+  },
+  {
+    "cardId": "base3-7",
+    "grade": 4,
+    "valueUsd": 47
+  },
+  {
+    "cardId": "base3-7",
+    "grade": 5,
+    "valueUsd": 54
+  },
+  {
+    "cardId": "base3-7",
+    "grade": 6,
+    "valueUsd": 63
+  },
+  {
+    "cardId": "base3-7",
+    "grade": 7,
+    "valueUsd": 89
+  },
+  {
+    "cardId": "base3-7",
+    "grade": 8,
+    "valueUsd": 140
+  },
+  {
+    "cardId": "base3-7",
+    "grade": 9,
+    "valueUsd": 313
+  },
+  {
+    "cardId": "base3-7",
+    "grade": 10,
+    "valueUsd": 3386
+  },
+  {
+    "cardId": "base5-3",
+    "grade": 1,
+    "valueUsd": 119
+  },
+  {
+    "cardId": "base5-3",
+    "grade": 2,
+    "valueUsd": 106
+  },
+  {
+    "cardId": "base5-3",
+    "grade": 3,
+    "valueUsd": 85
+  },
+  {
+    "cardId": "base5-3",
+    "grade": 4,
+    "valueUsd": 76
+  },
+  {
+    "cardId": "base5-3",
+    "grade": 5,
+    "valueUsd": 94
+  },
+  {
+    "cardId": "base5-3",
+    "grade": 6,
+    "valueUsd": 137
+  },
+  {
+    "cardId": "base5-3",
+    "grade": 7,
+    "valueUsd": 184
+  },
+  {
+    "cardId": "base5-3",
+    "grade": 8,
+    "valueUsd": 287
+  },
+  {
+    "cardId": "base5-3",
+    "grade": 9,
+    "valueUsd": 526
+  },
+  {
+    "cardId": "base3-15",
+    "grade": 1,
+    "valueUsd": 159
+  },
+  {
+    "cardId": "base3-15",
+    "grade": 2,
+    "valueUsd": 138
+  },
+  {
+    "cardId": "base3-15",
+    "grade": 3,
+    "valueUsd": 117
+  },
+  {
+    "cardId": "base3-15",
+    "grade": 4,
+    "valueUsd": 94
+  },
+  {
+    "cardId": "base3-15",
+    "grade": 5,
+    "valueUsd": 73
+  },
+  {
+    "cardId": "base3-15",
+    "grade": 6,
+    "valueUsd": 123
+  },
+  {
+    "cardId": "base3-15",
+    "grade": 7,
+    "valueUsd": 153
+  },
+  {
+    "cardId": "base3-15",
+    "grade": 8,
+    "valueUsd": 306
+  },
+  {
+    "cardId": "base3-15",
+    "grade": 9,
+    "valueUsd": 548
+  },
+  {
+    "cardId": "base3-15",
+    "grade": 10,
+    "valueUsd": 3390
+  },
+  {
+    "cardId": "base1-35",
+    "grade": 5,
+    "valueUsd": 119
+  },
+  {
+    "cardId": "base1-35",
+    "grade": 6,
+    "valueUsd": 127
+  },
+  {
+    "cardId": "base1-35",
+    "grade": 7,
+    "valueUsd": 177
+  },
+  {
+    "cardId": "base1-35",
+    "grade": 8,
+    "valueUsd": 291
+  },
+  {
+    "cardId": "base1-35",
+    "grade": 9,
+    "valueUsd": 447
+  },
+  {
+    "cardId": "base1-35",
+    "grade": 10,
+    "valueUsd": 2665
+  },
+  {
+    "cardId": "base3-50",
+    "grade": 1,
+    "valueUsd": 252
+  },
+  {
+    "cardId": "base3-50",
+    "grade": 2,
+    "valueUsd": 176
+  },
+  {
+    "cardId": "base3-50",
+    "grade": 3,
+    "valueUsd": 108
+  },
+  {
+    "cardId": "base3-50",
+    "grade": 4,
+    "valueUsd": 29
+  },
+  {
+    "cardId": "base3-50",
+    "grade": 5,
+    "valueUsd": 21
+  },
+  {
+    "cardId": "base3-50",
+    "grade": 6,
+    "valueUsd": 21
+  },
+  {
+    "cardId": "base3-50",
+    "grade": 7,
+    "valueUsd": 17
+  },
+  {
+    "cardId": "base3-50",
+    "grade": 8,
+    "valueUsd": 23
+  },
+  {
+    "cardId": "base3-50",
+    "grade": 9,
+    "valueUsd": 62
+  },
+  {
+    "cardId": "base3-50",
+    "grade": 10,
+    "valueUsd": 728
+  },
+  {
+    "cardId": "gym2-13",
+    "grade": 1,
+    "valueUsd": 103
+  },
+  {
+    "cardId": "gym2-13",
+    "grade": 2,
+    "valueUsd": 97
+  },
+  {
+    "cardId": "gym2-13",
+    "grade": 3,
+    "valueUsd": 86
+  },
+  {
+    "cardId": "gym2-13",
+    "grade": 4,
+    "valueUsd": 76
+  },
+  {
+    "cardId": "gym2-13",
+    "grade": 5,
+    "valueUsd": 75
+  },
+  {
+    "cardId": "gym2-13",
+    "grade": 6,
+    "valueUsd": 106
+  },
+  {
+    "cardId": "gym2-13",
+    "grade": 7,
+    "valueUsd": 155
+  },
+  {
+    "cardId": "gym2-13",
+    "grade": 8,
+    "valueUsd": 206
+  },
+  {
+    "cardId": "gym2-13",
+    "grade": 9,
+    "valueUsd": 356
+  },
+  {
+    "cardId": "gym2-13",
+    "grade": 10,
+    "valueUsd": 1737
+  },
+  {
+    "cardId": "base2-14",
+    "grade": 4,
+    "valueUsd": 23
+  },
+  {
+    "cardId": "base2-14",
+    "grade": 5,
+    "valueUsd": 49
+  },
+  {
+    "cardId": "base2-14",
+    "grade": 6,
+    "valueUsd": 52
+  },
+  {
+    "cardId": "base2-14",
+    "grade": 7,
+    "valueUsd": 82
+  },
+  {
+    "cardId": "base2-14",
+    "grade": 8,
+    "valueUsd": 134
+  },
+  {
+    "cardId": "base2-14",
+    "grade": 9,
+    "valueUsd": 288
+  },
+  {
+    "cardId": "base2-14",
+    "grade": 10,
+    "valueUsd": 3681
+  },
+  {
+    "cardId": "neo3-6",
+    "grade": 3,
+    "valueUsd": 78
+  },
+  {
+    "cardId": "neo3-6",
+    "grade": 4,
+    "valueUsd": 101
+  },
+  {
+    "cardId": "neo3-6",
+    "grade": 5,
+    "valueUsd": 99
+  },
+  {
+    "cardId": "neo3-6",
+    "grade": 6,
+    "valueUsd": 120
+  },
+  {
+    "cardId": "neo3-6",
+    "grade": 7,
+    "valueUsd": 180
+  },
+  {
+    "cardId": "neo3-6",
+    "grade": 8,
+    "valueUsd": 312
+  },
+  {
+    "cardId": "neo3-6",
+    "grade": 9,
+    "valueUsd": 567
+  },
+  {
+    "cardId": "neo1-18",
+    "grade": 1,
+    "valueUsd": 175
+  },
+  {
+    "cardId": "neo1-18",
+    "grade": 2,
+    "valueUsd": 168
+  },
+  {
+    "cardId": "neo1-18",
+    "grade": 3,
+    "valueUsd": 149
+  },
+  {
+    "cardId": "neo1-18",
+    "grade": 4,
+    "valueUsd": 136
+  },
+  {
+    "cardId": "neo1-18",
+    "grade": 5,
+    "valueUsd": 127
+  },
+  {
+    "cardId": "neo1-18",
+    "grade": 6,
+    "valueUsd": 195
+  },
+  {
+    "cardId": "neo1-18",
+    "grade": 7,
+    "valueUsd": 366
+  },
+  {
+    "cardId": "neo1-18",
+    "grade": 8,
+    "valueUsd": 447
+  },
+  {
+    "cardId": "neo1-18",
+    "grade": 9,
+    "valueUsd": 794
+  },
+  {
+    "cardId": "neo1-18",
+    "grade": 10,
+    "valueUsd": 5094
+  },
+  {
+    "cardId": "neo2-12",
+    "grade": 1,
+    "valueUsd": 125
+  },
+  {
+    "cardId": "neo2-12",
+    "grade": 2,
+    "valueUsd": 112
+  },
+  {
+    "cardId": "neo2-12",
+    "grade": 3,
+    "valueUsd": 101
+  },
+  {
+    "cardId": "neo2-12",
+    "grade": 4,
+    "valueUsd": 83
+  },
+  {
+    "cardId": "neo2-12",
+    "grade": 5,
+    "valueUsd": 92
+  },
+  {
+    "cardId": "neo2-12",
+    "grade": 6,
+    "valueUsd": 119
+  },
+  {
+    "cardId": "neo2-12",
+    "grade": 7,
+    "valueUsd": 187
+  },
+  {
+    "cardId": "neo2-12",
+    "grade": 8,
+    "valueUsd": 194
+  },
+  {
+    "cardId": "neo2-12",
+    "grade": 9,
+    "valueUsd": 408
+  },
+  {
+    "cardId": "neo2-12",
+    "grade": 10,
+    "valueUsd": 3281
+  },
+  {
+    "cardId": "neo1-14",
+    "grade": 4,
+    "valueUsd": 123
+  },
+  {
+    "cardId": "neo1-14",
+    "grade": 5,
+    "valueUsd": 154
+  },
+  {
+    "cardId": "neo1-14",
+    "grade": 6,
+    "valueUsd": 216
+  },
+  {
+    "cardId": "neo1-14",
+    "grade": 7,
+    "valueUsd": 282
+  },
+  {
+    "cardId": "neo1-14",
+    "grade": 8,
+    "valueUsd": 535
+  },
+  {
+    "cardId": "neo1-14",
+    "grade": 9,
+    "valueUsd": 1848
+  },
+  {
+    "cardId": "base2-27",
+    "grade": 1,
+    "valueUsd": 148
+  },
+  {
+    "cardId": "base2-27",
+    "grade": 2,
+    "valueUsd": 132
+  },
+  {
+    "cardId": "base2-27",
+    "grade": 3,
+    "valueUsd": 123
+  },
+  {
+    "cardId": "base2-27",
+    "grade": 4,
+    "valueUsd": 105
+  },
+  {
+    "cardId": "base2-27",
+    "grade": 5,
+    "valueUsd": 88
+  },
+  {
+    "cardId": "base2-27",
+    "grade": 6,
+    "valueUsd": 65
+  },
+  {
+    "cardId": "base2-27",
+    "grade": 7,
+    "valueUsd": 86
+  },
+  {
+    "cardId": "base2-27",
+    "grade": 8,
+    "valueUsd": 161
+  },
+  {
+    "cardId": "base2-27",
+    "grade": 9,
+    "valueUsd": 302
+  },
+  {
+    "cardId": "base2-27",
+    "grade": 10,
+    "valueUsd": 1717
+  },
+  {
+    "cardId": "base3-11",
+    "grade": 1,
+    "valueUsd": 36
+  },
+  {
+    "cardId": "base3-11",
+    "grade": 2,
+    "valueUsd": 31
+  },
+  {
+    "cardId": "base3-11",
+    "grade": 3,
+    "valueUsd": 25
+  },
+  {
+    "cardId": "base3-11",
+    "grade": 4,
+    "valueUsd": 20
+  },
+  {
+    "cardId": "base3-11",
+    "grade": 5,
+    "valueUsd": 19
+  },
+  {
+    "cardId": "base3-11",
+    "grade": 6,
+    "valueUsd": 25
+  },
+  {
+    "cardId": "base3-11",
+    "grade": 7,
+    "valueUsd": 36
+  },
+  {
+    "cardId": "base3-11",
+    "grade": 8,
+    "valueUsd": 58
+  },
+  {
+    "cardId": "base3-11",
+    "grade": 9,
+    "valueUsd": 91
+  },
+  {
+    "cardId": "base3-11",
+    "grade": 10,
+    "valueUsd": 468
+  },
+  {
+    "cardId": "base2-9",
+    "grade": 5,
+    "valueUsd": 42
+  },
+  {
+    "cardId": "base2-9",
+    "grade": 6,
+    "valueUsd": 50
+  },
+  {
+    "cardId": "base2-9",
+    "grade": 7,
+    "valueUsd": 67
+  },
+  {
+    "cardId": "base2-9",
+    "grade": 8,
+    "valueUsd": 149
+  },
+  {
+    "cardId": "base2-9",
+    "grade": 9,
+    "valueUsd": 272
+  },
+  {
+    "cardId": "base2-9",
+    "grade": 10,
+    "valueUsd": 3189
+  },
+  {
+    "cardId": "gym2-4",
+    "grade": 1,
+    "valueUsd": 100
+  },
+  {
+    "cardId": "gym2-4",
+    "grade": 2,
+    "valueUsd": 79
+  },
+  {
+    "cardId": "gym2-4",
+    "grade": 3,
+    "valueUsd": 58
+  },
+  {
+    "cardId": "gym2-4",
+    "grade": 4,
+    "valueUsd": 75
+  },
+  {
+    "cardId": "gym2-4",
+    "grade": 5,
+    "valueUsd": 95
+  },
+  {
+    "cardId": "gym2-4",
+    "grade": 6,
+    "valueUsd": 132
+  },
+  {
+    "cardId": "gym2-4",
+    "grade": 7,
+    "valueUsd": 171
+  },
+  {
+    "cardId": "gym2-4",
+    "grade": 8,
+    "valueUsd": 241
+  },
+  {
+    "cardId": "gym2-4",
+    "grade": 9,
+    "valueUsd": 430
+  },
+  {
+    "cardId": "base1-43",
+    "grade": 6,
+    "valueUsd": 55
+  },
+  {
+    "cardId": "base1-43",
+    "grade": 7,
+    "valueUsd": 39
+  },
+  {
+    "cardId": "base1-43",
+    "grade": 8,
+    "valueUsd": 77
+  },
+  {
+    "cardId": "base1-43",
+    "grade": 9,
+    "valueUsd": 147
+  },
+  {
+    "cardId": "base1-43",
+    "grade": 10,
+    "valueUsd": 708
+  },
+  {
+    "cardId": "base1-52",
+    "grade": 5,
+    "valueUsd": 29
+  },
+  {
+    "cardId": "base1-52",
+    "grade": 6,
+    "valueUsd": 33
+  },
+  {
+    "cardId": "base1-52",
+    "grade": 7,
+    "valueUsd": 39
+  },
+  {
+    "cardId": "base1-52",
+    "grade": 8,
+    "valueUsd": 61
+  },
+  {
+    "cardId": "base1-52",
+    "grade": 9,
+    "valueUsd": 116
+  },
+  {
+    "cardId": "base1-52",
+    "grade": 10,
+    "valueUsd": 513
+  },
+  {
+    "cardId": "base1-34",
+    "grade": 6,
+    "valueUsd": 34
+  },
+  {
+    "cardId": "base1-34",
+    "grade": 7,
+    "valueUsd": 75
+  },
+  {
+    "cardId": "base1-34",
+    "grade": 8,
+    "valueUsd": 103
+  },
+  {
+    "cardId": "base1-34",
+    "grade": 9,
+    "valueUsd": 203
+  },
+  {
+    "cardId": "base1-34",
+    "grade": 10,
+    "valueUsd": 1114
+  },
+  {
+    "cardId": "neo4-113",
+    "grade": 1,
+    "valueUsd": 432
+  },
+  {
+    "cardId": "neo4-113",
+    "grade": 2,
+    "valueUsd": 399
+  },
+  {
+    "cardId": "neo4-113",
+    "grade": 3,
+    "valueUsd": 459
+  },
+  {
+    "cardId": "neo4-113",
+    "grade": 4,
+    "valueUsd": 560
+  },
+  {
+    "cardId": "neo4-113",
+    "grade": 5,
+    "valueUsd": 770
+  },
+  {
+    "cardId": "neo4-113",
+    "grade": 6,
+    "valueUsd": 948
+  },
+  {
+    "cardId": "neo4-113",
+    "grade": 7,
+    "valueUsd": 1348
+  },
+  {
+    "cardId": "neo4-113",
+    "grade": 8,
+    "valueUsd": 1937
+  },
+  {
+    "cardId": "neo4-113",
+    "grade": 9,
+    "valueUsd": 2532
+  },
+  {
+    "cardId": "neo4-113",
+    "grade": 10,
+    "valueUsd": 9038
+  },
+  {
+    "cardId": "neo3-7",
+    "grade": 1,
+    "valueUsd": 120
+  },
+  {
+    "cardId": "neo3-7",
+    "grade": 2,
+    "valueUsd": 143
+  },
+  {
+    "cardId": "neo3-7",
+    "grade": 3,
+    "valueUsd": 159
+  },
+  {
+    "cardId": "neo3-7",
+    "grade": 4,
+    "valueUsd": 151
+  },
+  {
+    "cardId": "neo3-7",
+    "grade": 5,
+    "valueUsd": 187
+  },
+  {
+    "cardId": "neo3-7",
+    "grade": 6,
+    "valueUsd": 209
+  },
+  {
+    "cardId": "neo3-7",
+    "grade": 7,
+    "valueUsd": 297
+  },
+  {
+    "cardId": "neo3-7",
+    "grade": 8,
+    "valueUsd": 370
+  },
+  {
+    "cardId": "neo3-7",
+    "grade": 9,
+    "valueUsd": 502
+  },
+  {
+    "cardId": "base1-60",
+    "grade": 6,
+    "valueUsd": 29
+  },
+  {
+    "cardId": "base1-60",
+    "grade": 7,
+    "valueUsd": 36
+  },
+  {
+    "cardId": "base1-60",
+    "grade": 8,
+    "valueUsd": 55
+  },
+  {
+    "cardId": "base1-60",
+    "grade": 9,
+    "valueUsd": 125
+  },
+  {
+    "cardId": "base1-60",
+    "grade": 10,
+    "valueUsd": 557
+  },
+  {
+    "cardId": "neo1-17",
+    "grade": 1,
+    "valueUsd": 209
+  },
+  {
+    "cardId": "neo1-17",
+    "grade": 2,
+    "valueUsd": 219
+  },
+  {
+    "cardId": "neo1-17",
+    "grade": 3,
+    "valueUsd": 230
+  },
+  {
+    "cardId": "neo1-17",
+    "grade": 4,
+    "valueUsd": 287
+  },
+  {
+    "cardId": "neo1-17",
+    "grade": 5,
+    "valueUsd": 344
+  },
+  {
+    "cardId": "neo1-17",
+    "grade": 6,
+    "valueUsd": 692
+  },
+  {
+    "cardId": "neo1-17",
+    "grade": 7,
+    "valueUsd": 1067
+  },
+  {
+    "cardId": "neo1-17",
+    "grade": 8,
+    "valueUsd": 1831
+  },
+  {
+    "cardId": "neo1-17",
+    "grade": 9,
+    "valueUsd": 8788
+  },
+  {
+    "cardId": "base2-51",
+    "grade": 1,
+    "valueUsd": 68
+  },
+  {
+    "cardId": "base2-51",
+    "grade": 2,
+    "valueUsd": 58
+  },
+  {
+    "cardId": "base2-51",
+    "grade": 3,
+    "valueUsd": 46
+  },
+  {
+    "cardId": "base2-51",
+    "grade": 4,
+    "valueUsd": 34
+  },
+  {
+    "cardId": "base2-51",
+    "grade": 5,
+    "valueUsd": 23
+  },
+  {
+    "cardId": "base2-51",
+    "grade": 6,
+    "valueUsd": 25
+  },
+  {
+    "cardId": "base2-51",
+    "grade": 7,
+    "valueUsd": 30
+  },
+  {
+    "cardId": "base2-51",
+    "grade": 8,
+    "valueUsd": 41
+  },
+  {
+    "cardId": "base2-51",
+    "grade": 9,
+    "valueUsd": 72
+  },
+  {
+    "cardId": "base2-51",
+    "grade": 10,
+    "valueUsd": 569
+  },
+  {
+    "cardId": "neo4-111",
+    "grade": 1,
+    "valueUsd": 341
+  },
+  {
+    "cardId": "neo4-111",
+    "grade": 2,
+    "valueUsd": 251
+  },
+  {
+    "cardId": "neo4-111",
+    "grade": 3,
+    "valueUsd": 300
+  },
+  {
+    "cardId": "neo4-111",
+    "grade": 4,
+    "valueUsd": 409
+  },
+  {
+    "cardId": "neo4-111",
+    "grade": 5,
+    "valueUsd": 338
+  },
+  {
+    "cardId": "neo4-111",
+    "grade": 6,
+    "valueUsd": 610
+  },
+  {
+    "cardId": "neo4-111",
+    "grade": 7,
+    "valueUsd": 703
+  },
+  {
+    "cardId": "neo4-111",
+    "grade": 8,
+    "valueUsd": 1000
+  },
+  {
+    "cardId": "neo4-111",
+    "grade": 9,
+    "valueUsd": 1444
+  },
+  {
+    "cardId": "neo4-111",
+    "grade": 10,
+    "valueUsd": 5344
+  },
+  {
+    "cardId": "neo1-12",
+    "grade": 4,
+    "valueUsd": 70
+  },
+  {
+    "cardId": "neo1-12",
+    "grade": 5,
+    "valueUsd": 82
+  },
+  {
+    "cardId": "neo1-12",
+    "grade": 6,
+    "valueUsd": 97
+  },
+  {
+    "cardId": "neo1-12",
+    "grade": 7,
+    "valueUsd": 127
+  },
+  {
+    "cardId": "neo1-12",
+    "grade": 8,
+    "valueUsd": 209
+  },
+  {
+    "cardId": "neo1-12",
+    "grade": 9,
+    "valueUsd": 497
+  },
+  {
+    "cardId": "base2-16",
+    "grade": 4,
+    "valueUsd": 19
+  },
+  {
+    "cardId": "base2-16",
+    "grade": 5,
+    "valueUsd": 20
+  },
+  {
+    "cardId": "base2-16",
+    "grade": 6,
+    "valueUsd": 25
+  },
+  {
+    "cardId": "base2-16",
+    "grade": 7,
+    "valueUsd": 39
+  },
+  {
+    "cardId": "base2-16",
+    "grade": 8,
+    "valueUsd": 65
+  },
+  {
+    "cardId": "base2-16",
+    "grade": 9,
+    "valueUsd": 137
+  },
+  {
+    "cardId": "gym1-1",
+    "grade": 1,
+    "valueUsd": 98
+  },
+  {
+    "cardId": "gym1-1",
+    "grade": 2,
+    "valueUsd": 74
+  },
+  {
+    "cardId": "gym1-1",
+    "grade": 3,
+    "valueUsd": 49
+  },
+  {
+    "cardId": "gym1-1",
+    "grade": 4,
+    "valueUsd": 73
+  },
+  {
+    "cardId": "gym1-1",
+    "grade": 5,
+    "valueUsd": 72
+  },
+  {
+    "cardId": "gym1-1",
+    "grade": 6,
+    "valueUsd": 95
+  },
+  {
+    "cardId": "gym1-1",
+    "grade": 7,
+    "valueUsd": 121
+  },
+  {
+    "cardId": "gym1-1",
+    "grade": 8,
+    "valueUsd": 185
+  },
+  {
+    "cardId": "gym1-1",
+    "grade": 9,
+    "valueUsd": 300
+  },
+  {
+    "cardId": "neo3-14",
+    "grade": 1,
+    "valueUsd": 99
+  },
+  {
+    "cardId": "neo3-14",
+    "grade": 2,
+    "valueUsd": 102
+  },
+  {
+    "cardId": "neo3-14",
+    "grade": 3,
+    "valueUsd": 96
+  },
+  {
+    "cardId": "neo3-14",
+    "grade": 4,
+    "valueUsd": 90
+  },
+  {
+    "cardId": "neo3-14",
+    "grade": 5,
+    "valueUsd": 93
+  },
+  {
+    "cardId": "neo3-14",
+    "grade": 6,
+    "valueUsd": 138
+  },
+  {
+    "cardId": "neo3-14",
+    "grade": 7,
+    "valueUsd": 208
+  },
+  {
+    "cardId": "neo3-14",
+    "grade": 8,
+    "valueUsd": 419
+  },
+  {
+    "cardId": "neo3-14",
+    "grade": 9,
+    "valueUsd": 544
+  },
+  {
+    "cardId": "gym1-12",
+    "grade": 1,
+    "valueUsd": 67
+  },
+  {
+    "cardId": "gym1-12",
+    "grade": 2,
+    "valueUsd": 61
+  },
+  {
+    "cardId": "gym1-12",
+    "grade": 3,
+    "valueUsd": 58
+  },
+  {
+    "cardId": "gym1-12",
+    "grade": 4,
+    "valueUsd": 52
+  },
+  {
+    "cardId": "gym1-12",
+    "grade": 5,
+    "valueUsd": 50
+  },
+  {
+    "cardId": "gym1-12",
+    "grade": 6,
+    "valueUsd": 54
+  },
+  {
+    "cardId": "gym1-12",
+    "grade": 7,
+    "valueUsd": 96
+  },
+  {
+    "cardId": "gym1-12",
+    "grade": 8,
+    "valueUsd": 131
+  },
+  {
+    "cardId": "gym1-12",
+    "grade": 9,
+    "valueUsd": 210
+  },
+  {
+    "cardId": "gym1-12",
+    "grade": 10,
+    "valueUsd": 1543
+  },
+  {
+    "cardId": "base5-83",
+    "grade": 4,
+    "valueUsd": 121
+  },
+  {
+    "cardId": "base5-83",
+    "grade": 5,
+    "valueUsd": 163
+  },
+  {
+    "cardId": "base5-83",
+    "grade": 6,
+    "valueUsd": 165
+  },
+  {
+    "cardId": "base5-83",
+    "grade": 7,
+    "valueUsd": 256
+  },
+  {
+    "cardId": "base5-83",
+    "grade": 8,
+    "valueUsd": 377
+  },
+  {
+    "cardId": "base5-83",
+    "grade": 9,
+    "valueUsd": 839
+  },
+  {
+    "cardId": "base5-83",
+    "grade": 10,
+    "valueUsd": 6664
+  },
+  {
+    "cardId": "neo3-3",
+    "grade": 1,
+    "valueUsd": 111
+  },
+  {
+    "cardId": "neo3-3",
+    "grade": 2,
+    "valueUsd": 105
+  },
+  {
+    "cardId": "neo3-3",
+    "grade": 3,
+    "valueUsd": 100
+  },
+  {
+    "cardId": "neo3-3",
+    "grade": 4,
+    "valueUsd": 95
+  },
+  {
+    "cardId": "neo3-3",
+    "grade": 5,
+    "valueUsd": 89
+  },
+  {
+    "cardId": "neo3-3",
+    "grade": 6,
+    "valueUsd": 94
+  },
+  {
+    "cardId": "neo3-3",
+    "grade": 7,
+    "valueUsd": 126
+  },
+  {
+    "cardId": "neo3-3",
+    "grade": 8,
+    "valueUsd": 196
+  },
+  {
+    "cardId": "neo3-3",
+    "grade": 9,
+    "valueUsd": 386
+  },
+  {
+    "cardId": "base1-32",
+    "grade": 5,
+    "valueUsd": 15
+  },
+  {
+    "cardId": "base1-32",
+    "grade": 6,
+    "valueUsd": 20
+  },
+  {
+    "cardId": "base1-32",
+    "grade": 7,
+    "valueUsd": 26
+  },
+  {
+    "cardId": "base1-32",
+    "grade": 8,
+    "valueUsd": 31
+  },
+  {
+    "cardId": "base1-32",
+    "grade": 9,
+    "valueUsd": 49
+  },
+  {
+    "cardId": "base1-32",
+    "grade": 10,
+    "valueUsd": 224
+  },
+  {
+    "cardId": "gym2-15",
+    "grade": 1,
+    "valueUsd": 60
+  },
+  {
+    "cardId": "gym2-15",
+    "grade": 2,
+    "valueUsd": 59
+  },
+  {
+    "cardId": "gym2-15",
+    "grade": 3,
+    "valueUsd": 62
+  },
+  {
+    "cardId": "gym2-15",
+    "grade": 4,
+    "valueUsd": 60
+  },
+  {
+    "cardId": "gym2-15",
+    "grade": 5,
+    "valueUsd": 63
+  },
+  {
+    "cardId": "gym2-15",
+    "grade": 6,
+    "valueUsd": 78
+  },
+  {
+    "cardId": "gym2-15",
+    "grade": 7,
+    "valueUsd": 96
+  },
+  {
+    "cardId": "gym2-15",
+    "grade": 8,
+    "valueUsd": 138
+  },
+  {
+    "cardId": "gym2-15",
+    "grade": 9,
+    "valueUsd": 226
+  },
+  {
+    "cardId": "gym2-15",
+    "grade": 10,
+    "valueUsd": 1006
+  },
+  {
+    "cardId": "base1-26",
+    "grade": 6,
+    "valueUsd": 46
+  },
+  {
+    "cardId": "base1-26",
+    "grade": 7,
+    "valueUsd": 80
+  },
+  {
+    "cardId": "base1-26",
+    "grade": 8,
+    "valueUsd": 114
+  },
+  {
+    "cardId": "base1-26",
+    "grade": 9,
+    "valueUsd": 260
+  },
+  {
+    "cardId": "base1-26",
+    "grade": 10,
+    "valueUsd": 2739
+  },
+  {
+    "cardId": "base1-23",
+    "grade": 5,
+    "valueUsd": 92
+  },
+  {
+    "cardId": "base1-23",
+    "grade": 6,
+    "valueUsd": 124
+  },
+  {
+    "cardId": "base1-23",
+    "grade": 7,
+    "valueUsd": 147
+  },
+  {
+    "cardId": "base1-23",
+    "grade": 8,
+    "valueUsd": 239
+  },
+  {
+    "cardId": "base1-23",
+    "grade": 9,
+    "valueUsd": 384
+  },
+  {
+    "cardId": "base1-23",
+    "grade": 10,
+    "valueUsd": 2159
+  },
+  {
+    "cardId": "gym2-5",
+    "grade": 1,
+    "valueUsd": 82
+  },
+  {
+    "cardId": "gym2-5",
+    "grade": 2,
+    "valueUsd": 83
+  },
+  {
+    "cardId": "gym2-5",
+    "grade": 3,
+    "valueUsd": 88
+  },
+  {
+    "cardId": "gym2-5",
+    "grade": 4,
+    "valueUsd": 92
+  },
+  {
+    "cardId": "gym2-5",
+    "grade": 5,
+    "valueUsd": 97
+  },
+  {
+    "cardId": "gym2-5",
+    "grade": 6,
+    "valueUsd": 109
+  },
+  {
+    "cardId": "gym2-5",
+    "grade": 7,
+    "valueUsd": 141
+  },
+  {
+    "cardId": "gym2-5",
+    "grade": 8,
+    "valueUsd": 205
+  },
+  {
+    "cardId": "gym2-5",
+    "grade": 9,
+    "valueUsd": 381
+  },
+  {
+    "cardId": "gym2-5",
+    "grade": 10,
+    "valueUsd": 1850
+  },
+  {
+    "cardId": "neo4-112",
+    "grade": 1,
+    "valueUsd": 249
+  },
+  {
+    "cardId": "neo4-112",
+    "grade": 2,
+    "valueUsd": 200
+  },
+  {
+    "cardId": "neo4-112",
+    "grade": 3,
+    "valueUsd": 224
+  },
+  {
+    "cardId": "neo4-112",
+    "grade": 4,
+    "valueUsd": 231
+  },
+  {
+    "cardId": "neo4-112",
+    "grade": 5,
+    "valueUsd": 309
+  },
+  {
+    "cardId": "neo4-112",
+    "grade": 6,
+    "valueUsd": 345
+  },
+  {
+    "cardId": "neo4-112",
+    "grade": 7,
+    "valueUsd": 487
+  },
+  {
+    "cardId": "neo4-112",
+    "grade": 8,
+    "valueUsd": 674
+  },
+  {
+    "cardId": "neo4-112",
+    "grade": 9,
+    "valueUsd": 856
+  },
+  {
+    "cardId": "neo4-112",
+    "grade": 10,
+    "valueUsd": 1739
+  },
+  {
+    "cardId": "base1-18",
+    "grade": 5,
+    "valueUsd": 172
+  },
+  {
+    "cardId": "base1-18",
+    "grade": 6,
+    "valueUsd": 175
+  },
+  {
+    "cardId": "base1-18",
+    "grade": 7,
+    "valueUsd": 204
+  },
+  {
+    "cardId": "base1-18",
+    "grade": 8,
+    "valueUsd": 321
+  },
+  {
+    "cardId": "base1-18",
+    "grade": 9,
+    "valueUsd": 654
+  },
+  {
+    "cardId": "base1-18",
+    "grade": 10,
+    "valueUsd": 5274
+  },
+  {
+    "cardId": "base1-8",
+    "grade": 1,
+    "valueUsd": 87
+  },
+  {
+    "cardId": "base1-8",
+    "grade": 2,
+    "valueUsd": 62
+  },
+  {
+    "cardId": "base1-8",
+    "grade": 3,
+    "valueUsd": 38
+  },
+  {
+    "cardId": "base1-8",
+    "grade": 4,
+    "valueUsd": 48
+  },
+  {
+    "cardId": "base1-8",
+    "grade": 5,
+    "valueUsd": 52
+  },
+  {
+    "cardId": "base1-8",
+    "grade": 6,
+    "valueUsd": 51
+  },
+  {
+    "cardId": "base1-8",
+    "grade": 7,
+    "valueUsd": 97
+  },
+  {
+    "cardId": "base1-8",
+    "grade": 8,
+    "valueUsd": 127
+  },
+  {
+    "cardId": "base1-8",
+    "grade": 9,
+    "valueUsd": 267
+  },
+  {
+    "cardId": "base1-8",
+    "grade": 10,
+    "valueUsd": 4055
+  },
+  {
+    "cardId": "neo4-106",
+    "grade": 1,
+    "valueUsd": 324
+  },
+  {
+    "cardId": "neo4-106",
+    "grade": 2,
+    "valueUsd": 212
+  },
+  {
+    "cardId": "neo4-106",
+    "grade": 3,
+    "valueUsd": 255
+  },
+  {
+    "cardId": "neo4-106",
+    "grade": 4,
+    "valueUsd": 293
+  },
+  {
+    "cardId": "neo4-106",
+    "grade": 5,
+    "valueUsd": 342
+  },
+  {
+    "cardId": "neo4-106",
+    "grade": 6,
+    "valueUsd": 386
+  },
+  {
+    "cardId": "neo4-106",
+    "grade": 7,
+    "valueUsd": 649
+  },
+  {
+    "cardId": "neo4-106",
+    "grade": 8,
+    "valueUsd": 818
+  },
+  {
+    "cardId": "neo4-106",
+    "grade": 9,
+    "valueUsd": 1318
+  },
+  {
+    "cardId": "neo4-106",
+    "grade": 10,
+    "valueUsd": 3165
+  },
+  {
+    "cardId": "neo4-6",
+    "grade": 1,
+    "valueUsd": 298
+  },
+  {
+    "cardId": "neo4-6",
+    "grade": 2,
+    "valueUsd": 272
+  },
+  {
+    "cardId": "neo4-6",
+    "grade": 3,
+    "valueUsd": 247
+  },
+  {
+    "cardId": "neo4-6",
+    "grade": 4,
+    "valueUsd": 323
+  },
+  {
+    "cardId": "neo4-6",
+    "grade": 5,
+    "valueUsd": 361
+  },
+  {
+    "cardId": "neo4-6",
+    "grade": 6,
+    "valueUsd": 586
+  },
+  {
+    "cardId": "neo4-6",
+    "grade": 7,
+    "valueUsd": 732
+  },
+  {
+    "cardId": "neo4-6",
+    "grade": 8,
+    "valueUsd": 1000
+  },
+  {
+    "cardId": "neo4-6",
+    "grade": 9,
+    "valueUsd": 1737
+  },
+  {
+    "cardId": "neo4-6",
+    "grade": 10,
+    "valueUsd": 9647
+  },
+  {
+    "cardId": "base1-28",
+    "grade": 6,
+    "valueUsd": 51
+  },
+  {
+    "cardId": "base1-28",
+    "grade": 7,
+    "valueUsd": 62
+  },
+  {
+    "cardId": "base1-28",
+    "grade": 8,
+    "valueUsd": 105
+  },
+  {
+    "cardId": "base1-28",
+    "grade": 9,
+    "valueUsd": 264
+  },
+  {
+    "cardId": "base1-28",
+    "grade": 10,
+    "valueUsd": 3571
+  },
+  {
+    "cardId": "neo3-13",
+    "grade": 1,
+    "valueUsd": 111
+  },
+  {
+    "cardId": "neo3-13",
+    "grade": 2,
+    "valueUsd": 114
+  },
+  {
+    "cardId": "neo3-13",
+    "grade": 3,
+    "valueUsd": 117
+  },
+  {
+    "cardId": "neo3-13",
+    "grade": 4,
+    "valueUsd": 120
+  },
+  {
+    "cardId": "neo3-13",
+    "grade": 5,
+    "valueUsd": 116
+  },
+  {
+    "cardId": "neo3-13",
+    "grade": 6,
+    "valueUsd": 126
+  },
+  {
+    "cardId": "neo3-13",
+    "grade": 7,
+    "valueUsd": 226
+  },
+  {
+    "cardId": "neo3-13",
+    "grade": 8,
+    "valueUsd": 334
+  },
+  {
+    "cardId": "neo3-13",
+    "grade": 9,
+    "valueUsd": 555
+  },
+  {
+    "cardId": "base5-1",
+    "grade": 5,
+    "valueUsd": 100
+  },
+  {
+    "cardId": "base5-1",
+    "grade": 6,
+    "valueUsd": 102
+  },
+  {
+    "cardId": "base5-1",
+    "grade": 7,
+    "valueUsd": 142
+  },
+  {
+    "cardId": "base5-1",
+    "grade": 8,
+    "valueUsd": 257
+  },
+  {
+    "cardId": "base5-1",
+    "grade": 9,
+    "valueUsd": 470
+  },
+  {
+    "cardId": "base5-1",
+    "grade": 10,
+    "valueUsd": 2969
+  },
+  {
+    "cardId": "base1-50",
+    "grade": 6,
+    "valueUsd": 25
+  },
+  {
+    "cardId": "base1-50",
+    "grade": 7,
+    "valueUsd": 46
+  },
+  {
+    "cardId": "base1-50",
+    "grade": 8,
+    "valueUsd": 68
+  },
+  {
+    "cardId": "base1-50",
+    "grade": 9,
+    "valueUsd": 150
+  },
+  {
+    "cardId": "base1-50",
+    "grade": 10,
+    "valueUsd": 679
+  },
+  {
+    "cardId": "gym1-13",
+    "grade": 6,
+    "valueUsd": 172
+  },
+  {
+    "cardId": "gym1-13",
+    "grade": 7,
+    "valueUsd": 206
+  },
+  {
+    "cardId": "gym1-13",
+    "grade": 8,
+    "valueUsd": 301
+  },
+  {
+    "cardId": "gym1-13",
+    "grade": 9,
+    "valueUsd": 724
+  },
+  {
+    "cardId": "gym1-13",
+    "grade": 10,
+    "valueUsd": 7736
+  },
+  {
+    "cardId": "neo1-5",
+    "grade": 5,
+    "valueUsd": 54
+  },
+  {
+    "cardId": "neo1-5",
+    "grade": 6,
+    "valueUsd": 85
+  },
+  {
+    "cardId": "neo1-5",
+    "grade": 7,
+    "valueUsd": 108
+  },
+  {
+    "cardId": "neo1-5",
+    "grade": 8,
+    "valueUsd": 175
+  },
+  {
+    "cardId": "neo1-5",
+    "grade": 9,
+    "valueUsd": 338
+  },
+  {
+    "cardId": "base1-56",
+    "grade": 5,
+    "valueUsd": 26
+  },
+  {
+    "cardId": "base1-56",
+    "grade": 6,
+    "valueUsd": 25
+  },
+  {
+    "cardId": "base1-56",
+    "grade": 7,
+    "valueUsd": 46
+  },
+  {
+    "cardId": "base1-56",
+    "grade": 8,
+    "valueUsd": 59
+  },
+  {
+    "cardId": "base1-56",
+    "grade": 9,
+    "valueUsd": 129
+  },
+  {
+    "cardId": "base1-56",
+    "grade": 10,
+    "valueUsd": 757
+  },
+  {
+    "cardId": "neo4-108",
+    "grade": 1,
+    "valueUsd": 236
+  },
+  {
+    "cardId": "neo4-108",
+    "grade": 2,
+    "valueUsd": 232
+  },
+  {
+    "cardId": "neo4-108",
+    "grade": 3,
+    "valueUsd": 236
+  },
+  {
+    "cardId": "neo4-108",
+    "grade": 4,
+    "valueUsd": 257
+  },
+  {
+    "cardId": "neo4-108",
+    "grade": 5,
+    "valueUsd": 375
+  },
+  {
+    "cardId": "neo4-108",
+    "grade": 6,
+    "valueUsd": 411
+  },
+  {
+    "cardId": "neo4-108",
+    "grade": 7,
+    "valueUsd": 422
+  },
+  {
+    "cardId": "neo4-108",
+    "grade": 8,
+    "valueUsd": 800
+  },
+  {
+    "cardId": "neo4-108",
+    "grade": 9,
+    "valueUsd": 999
+  },
+  {
+    "cardId": "neo4-108",
+    "grade": 10,
+    "valueUsd": 2328
+  },
+  {
+    "cardId": "gym1-10",
+    "grade": 7,
+    "valueUsd": 73
+  },
+  {
+    "cardId": "gym1-10",
+    "grade": 8,
+    "valueUsd": 136
+  },
+  {
+    "cardId": "gym1-10",
+    "grade": 9,
+    "valueUsd": 223
+  },
+  {
+    "cardId": "gym1-10",
+    "grade": 10,
+    "valueUsd": 2040
+  },
+  {
+    "cardId": "base1-65",
+    "grade": 6,
+    "valueUsd": 22
+  },
+  {
+    "cardId": "base1-65",
+    "grade": 7,
+    "valueUsd": 30
+  },
+  {
+    "cardId": "base1-65",
+    "grade": 8,
+    "valueUsd": 51
+  },
+  {
+    "cardId": "base1-65",
+    "grade": 9,
+    "valueUsd": 91
+  },
+  {
+    "cardId": "base1-65",
+    "grade": 10,
+    "valueUsd": 474
+  },
+  {
+    "cardId": "gym1-4",
+    "grade": 4,
+    "valueUsd": 41
+  },
+  {
+    "cardId": "gym1-4",
+    "grade": 5,
+    "valueUsd": 51
+  },
+  {
+    "cardId": "gym1-4",
+    "grade": 6,
+    "valueUsd": 68
+  },
+  {
+    "cardId": "gym1-4",
+    "grade": 7,
+    "valueUsd": 91
+  },
+  {
+    "cardId": "gym1-4",
+    "grade": 8,
+    "valueUsd": 131
+  },
+  {
+    "cardId": "gym1-4",
+    "grade": 9,
+    "valueUsd": 217
+  },
+  {
+    "cardId": "gym1-4",
+    "grade": 10,
+    "valueUsd": 2083
+  },
+  {
+    "cardId": "ecard1-6",
+    "grade": 1,
+    "valueUsd": 257
+  },
+  {
+    "cardId": "ecard1-6",
+    "grade": 2,
+    "valueUsd": 261
+  },
+  {
+    "cardId": "ecard1-6",
+    "grade": 3,
+    "valueUsd": 374
+  },
+  {
+    "cardId": "ecard1-6",
+    "grade": 4,
+    "valueUsd": 455
+  },
+  {
+    "cardId": "ecard1-6",
+    "grade": 5,
+    "valueUsd": 555
+  },
+  {
+    "cardId": "ecard1-6",
+    "grade": 6,
+    "valueUsd": 872
+  },
+  {
+    "cardId": "ecard1-6",
+    "grade": 7,
+    "valueUsd": 1303
+  },
+  {
+    "cardId": "ecard1-6",
+    "grade": 8,
+    "valueUsd": 2078
+  },
+  {
+    "cardId": "ecard1-6",
+    "grade": 9,
+    "valueUsd": 3803
+  },
+  {
+    "cardId": "base1-29",
+    "grade": 6,
+    "valueUsd": 57
+  },
+  {
+    "cardId": "base1-29",
+    "grade": 7,
+    "valueUsd": 98
+  },
+  {
+    "cardId": "base1-29",
+    "grade": 8,
+    "valueUsd": 112
+  },
+  {
+    "cardId": "base1-29",
+    "grade": 9,
+    "valueUsd": 235
+  },
+  {
+    "cardId": "base1-29",
+    "grade": 10,
+    "valueUsd": 1459
+  },
+  {
+    "cardId": "base1-97",
+    "grade": 6,
+    "valueUsd": 15
+  },
+  {
+    "cardId": "base1-97",
+    "grade": 7,
+    "valueUsd": 15
+  },
+  {
+    "cardId": "base1-97",
+    "grade": 8,
+    "valueUsd": 25
+  },
+  {
+    "cardId": "base1-97",
+    "grade": 9,
+    "valueUsd": 39
+  },
+  {
+    "cardId": "base1-97",
+    "grade": 10,
+    "valueUsd": 258
+  },
+  {
+    "cardId": "gym2-8",
+    "grade": 6,
+    "valueUsd": 120
+  },
+  {
+    "cardId": "gym2-8",
+    "grade": 7,
+    "valueUsd": 137
+  },
+  {
+    "cardId": "gym2-8",
+    "grade": 8,
+    "valueUsd": 283
+  },
+  {
+    "cardId": "gym2-8",
+    "grade": 9,
+    "valueUsd": 651
+  },
+  {
+    "cardId": "gym2-8",
+    "grade": 10,
+    "valueUsd": 12005
+  },
+  {
+    "cardId": "gym2-3",
+    "grade": 6,
+    "valueUsd": 99
+  },
+  {
+    "cardId": "gym2-3",
+    "grade": 7,
+    "valueUsd": 109
+  },
+  {
+    "cardId": "gym2-3",
+    "grade": 8,
+    "valueUsd": 198
+  },
+  {
+    "cardId": "gym2-3",
+    "grade": 9,
+    "valueUsd": 336
+  },
+  {
+    "cardId": "gym2-3",
+    "grade": 10,
+    "valueUsd": 2199
+  },
+  {
+    "cardId": "gym2-11",
+    "grade": 7,
+    "valueUsd": 122
+  },
+  {
+    "cardId": "gym2-11",
+    "grade": 8,
+    "valueUsd": 198
+  },
+  {
+    "cardId": "gym2-11",
+    "grade": 9,
+    "valueUsd": 406
+  },
+  {
+    "cardId": "gym2-11",
+    "grade": 10,
+    "valueUsd": 2508
+  },
+  {
+    "cardId": "base1-38",
+    "grade": 6,
+    "valueUsd": 44
+  },
+  {
+    "cardId": "base1-38",
+    "grade": 7,
+    "valueUsd": 42
+  },
+  {
+    "cardId": "base1-38",
+    "grade": 8,
+    "valueUsd": 79
+  },
+  {
+    "cardId": "base1-38",
+    "grade": 9,
+    "valueUsd": 159
+  },
+  {
+    "cardId": "base1-38",
+    "grade": 10,
+    "valueUsd": 1009
+  },
+  {
+    "cardId": "gym1-2",
+    "grade": 5,
+    "valueUsd": 24
+  },
+  {
+    "cardId": "gym1-2",
+    "grade": 6,
+    "valueUsd": 31
+  },
+  {
+    "cardId": "gym1-2",
+    "grade": 7,
+    "valueUsd": 43
+  },
+  {
+    "cardId": "gym1-2",
+    "grade": 8,
+    "valueUsd": 92
+  },
+  {
+    "cardId": "gym1-2",
+    "grade": 9,
+    "valueUsd": 122
+  },
+  {
+    "cardId": "neo1-15",
+    "grade": 5,
+    "valueUsd": 70
+  },
+  {
+    "cardId": "neo1-15",
+    "grade": 6,
+    "valueUsd": 79
+  },
+  {
+    "cardId": "neo1-15",
+    "grade": 7,
+    "valueUsd": 90
+  },
+  {
+    "cardId": "neo1-15",
+    "grade": 8,
+    "valueUsd": 161
+  },
+  {
+    "cardId": "neo1-15",
+    "grade": 9,
+    "valueUsd": 316
+  },
+  {
+    "cardId": "neo1-15",
+    "grade": 10,
+    "valueUsd": 2251
+  },
+  {
+    "cardId": "neo1-16",
+    "grade": 6,
+    "valueUsd": 75
+  },
+  {
+    "cardId": "neo1-16",
+    "grade": 7,
+    "valueUsd": 108
+  },
+  {
+    "cardId": "neo1-16",
+    "grade": 8,
+    "valueUsd": 185
+  },
+  {
+    "cardId": "neo1-16",
+    "grade": 9,
+    "valueUsd": 350
+  },
+  {
+    "cardId": "neo1-16",
+    "grade": 10,
+    "valueUsd": 2992
+  },
+  {
+    "cardId": "base2-50",
+    "grade": 5,
+    "valueUsd": 27
+  },
+  {
+    "cardId": "base2-50",
+    "grade": 6,
+    "valueUsd": 31
+  },
+  {
+    "cardId": "base2-50",
+    "grade": 7,
+    "valueUsd": 38
+  },
+  {
+    "cardId": "base2-50",
+    "grade": 8,
+    "valueUsd": 47
+  },
+  {
+    "cardId": "base2-50",
+    "grade": 9,
+    "valueUsd": 108
+  },
+  {
+    "cardId": "base2-50",
+    "grade": 10,
+    "valueUsd": 484
+  },
+  {
+    "cardId": "neo2-4",
+    "grade": 1,
+    "valueUsd": 83
+  },
+  {
+    "cardId": "neo2-4",
+    "grade": 2,
+    "valueUsd": 79
+  },
+  {
+    "cardId": "neo2-4",
+    "grade": 3,
+    "valueUsd": 67
+  },
+  {
+    "cardId": "neo2-4",
+    "grade": 4,
+    "valueUsd": 64
+  },
+  {
+    "cardId": "neo2-4",
+    "grade": 5,
+    "valueUsd": 52
+  },
+  {
+    "cardId": "neo2-4",
+    "grade": 6,
+    "valueUsd": 58
+  },
+  {
+    "cardId": "neo2-4",
+    "grade": 7,
+    "valueUsd": 80
+  },
+  {
+    "cardId": "neo2-4",
+    "grade": 8,
+    "valueUsd": 118
+  },
+  {
+    "cardId": "neo2-4",
+    "grade": 9,
+    "valueUsd": 243
+  },
+  {
+    "cardId": "neo4-110",
+    "grade": 1,
+    "valueUsd": 204
+  },
+  {
+    "cardId": "neo4-110",
+    "grade": 2,
+    "valueUsd": 182
+  },
+  {
+    "cardId": "neo4-110",
+    "grade": 3,
+    "valueUsd": 205
+  },
+  {
+    "cardId": "neo4-110",
+    "grade": 4,
+    "valueUsd": 252
+  },
+  {
+    "cardId": "neo4-110",
+    "grade": 5,
+    "valueUsd": 288
+  },
+  {
+    "cardId": "neo4-110",
+    "grade": 6,
+    "valueUsd": 305
+  },
+  {
+    "cardId": "neo4-110",
+    "grade": 7,
+    "valueUsd": 318
+  },
+  {
+    "cardId": "neo4-110",
+    "grade": 8,
+    "valueUsd": 484
+  },
+  {
+    "cardId": "neo4-110",
+    "grade": 9,
+    "valueUsd": 826
+  },
+  {
+    "cardId": "neo4-110",
+    "grade": 10,
+    "valueUsd": 2708
+  },
+  {
+    "cardId": "gym2-6",
+    "grade": 6,
+    "valueUsd": 115
+  },
+  {
+    "cardId": "gym2-6",
+    "grade": 7,
+    "valueUsd": 130
+  },
+  {
+    "cardId": "gym2-6",
+    "grade": 8,
+    "valueUsd": 184
+  },
+  {
+    "cardId": "gym2-6",
+    "grade": 9,
+    "valueUsd": 352
+  },
+  {
+    "cardId": "gym2-6",
+    "grade": 10,
+    "valueUsd": 2048
+  },
+  {
+    "cardId": "base1-47",
+    "grade": 6,
+    "valueUsd": 31
+  },
+  {
+    "cardId": "base1-47",
+    "grade": 7,
+    "valueUsd": 36
+  },
+  {
+    "cardId": "base1-47",
+    "grade": 8,
+    "valueUsd": 52
+  },
+  {
+    "cardId": "base1-47",
+    "grade": 9,
+    "valueUsd": 114
+  },
+  {
+    "cardId": "base1-47",
+    "grade": 10,
+    "valueUsd": 448
+  },
+  {
+    "cardId": "neo1-2",
+    "grade": 5,
+    "valueUsd": 51
+  },
+  {
+    "cardId": "neo1-2",
+    "grade": 6,
+    "valueUsd": 69
+  },
+  {
+    "cardId": "neo1-2",
+    "grade": 7,
+    "valueUsd": 81
+  },
+  {
+    "cardId": "neo1-2",
+    "grade": 8,
+    "valueUsd": 184
+  },
+  {
+    "cardId": "neo1-2",
+    "grade": 9,
+    "valueUsd": 440
+  },
+  {
+    "cardId": "neo3-8",
+    "grade": 1,
+    "valueUsd": 185
+  },
+  {
+    "cardId": "neo3-8",
+    "grade": 2,
+    "valueUsd": 422
+  },
+  {
+    "cardId": "neo3-8",
+    "grade": 3,
+    "valueUsd": 273
+  },
+  {
+    "cardId": "neo3-8",
+    "grade": 4,
+    "valueUsd": 110
+  },
+  {
+    "cardId": "neo3-8",
+    "grade": 5,
+    "valueUsd": 173
+  },
+  {
+    "cardId": "neo3-8",
+    "grade": 6,
+    "valueUsd": 270
+  },
+  {
+    "cardId": "neo3-8",
+    "grade": 7,
+    "valueUsd": 326
+  },
+  {
+    "cardId": "neo3-8",
+    "grade": 8,
+    "valueUsd": 514
+  },
+  {
+    "cardId": "neo3-8",
+    "grade": 9,
+    "valueUsd": 1269
+  },
+  {
+    "cardId": "neo1-4",
+    "grade": 5,
+    "valueUsd": 136
+  },
+  {
+    "cardId": "neo1-4",
+    "grade": 6,
+    "valueUsd": 147
+  },
+  {
+    "cardId": "neo1-4",
+    "grade": 7,
+    "valueUsd": 190
+  },
+  {
+    "cardId": "neo1-4",
+    "grade": 8,
+    "valueUsd": 353
+  },
+  {
+    "cardId": "neo1-4",
+    "grade": 9,
+    "valueUsd": 774
+  },
+  {
+    "cardId": "neo1-4",
+    "grade": 10,
+    "valueUsd": 6973
+  },
+  {
+    "cardId": "neo1-6",
+    "grade": 5,
+    "valueUsd": 77
+  },
+  {
+    "cardId": "neo1-6",
+    "grade": 6,
+    "valueUsd": 80
+  },
+  {
+    "cardId": "neo1-6",
+    "grade": 7,
+    "valueUsd": 127
+  },
+  {
+    "cardId": "neo1-6",
+    "grade": 8,
+    "valueUsd": 286
+  },
+  {
+    "cardId": "neo1-6",
+    "grade": 9,
+    "valueUsd": 604
+  },
+  {
+    "cardId": "neo1-1",
+    "grade": 1,
+    "valueUsd": 115
+  },
+  {
+    "cardId": "neo1-1",
+    "grade": 2,
+    "valueUsd": 95
+  },
+  {
+    "cardId": "neo1-1",
+    "grade": 3,
+    "valueUsd": 84
+  },
+  {
+    "cardId": "neo1-1",
+    "grade": 4,
+    "valueUsd": 66
+  },
+  {
+    "cardId": "neo1-1",
+    "grade": 5,
+    "valueUsd": 48
+  },
+  {
+    "cardId": "neo1-1",
+    "grade": 6,
+    "valueUsd": 56
+  },
+  {
+    "cardId": "neo1-1",
+    "grade": 7,
+    "valueUsd": 115
+  },
+  {
+    "cardId": "neo1-1",
+    "grade": 8,
+    "valueUsd": 164
+  },
+  {
+    "cardId": "neo1-1",
+    "grade": 9,
+    "valueUsd": 346
+  },
+  {
+    "cardId": "neo1-1",
+    "grade": 10,
+    "valueUsd": 2566
+  },
+  {
+    "cardId": "base1-31",
+    "grade": 7,
+    "valueUsd": 17
+  },
+  {
+    "cardId": "base1-31",
+    "grade": 8,
+    "valueUsd": 30
+  },
+  {
+    "cardId": "base1-31",
+    "grade": 9,
+    "valueUsd": 41
+  },
+  {
+    "cardId": "base1-31",
+    "grade": 10,
+    "valueUsd": 131
+  },
+  {
+    "cardId": "gym2-7",
+    "grade": 6,
+    "valueUsd": 135
+  },
+  {
+    "cardId": "gym2-7",
+    "grade": 7,
+    "valueUsd": 157
+  },
+  {
+    "cardId": "gym2-7",
+    "grade": 8,
+    "valueUsd": 224
+  },
+  {
+    "cardId": "gym2-7",
+    "grade": 9,
+    "valueUsd": 482
+  },
+  {
+    "cardId": "gym2-7",
+    "grade": 10,
+    "valueUsd": 2584
+  },
+  {
+    "cardId": "gym1-5",
+    "grade": 7,
+    "valueUsd": 64
+  },
+  {
+    "cardId": "gym1-5",
+    "grade": 8,
+    "valueUsd": 123
+  },
+  {
+    "cardId": "gym1-5",
+    "grade": 9,
+    "valueUsd": 259
+  },
+  {
+    "cardId": "gym1-5",
+    "grade": 10,
+    "valueUsd": 2470
+  },
+  {
+    "cardId": "gym1-11",
+    "grade": 6,
+    "valueUsd": 65
+  },
+  {
+    "cardId": "gym1-11",
+    "grade": 7,
+    "valueUsd": 108
+  },
+  {
+    "cardId": "gym1-11",
+    "grade": 8,
+    "valueUsd": 187
+  },
+  {
+    "cardId": "gym1-11",
+    "grade": 9,
+    "valueUsd": 359
+  },
+  {
+    "cardId": "gym1-11",
+    "grade": 10,
+    "valueUsd": 3216
+  },
+  {
+    "cardId": "gym1-18",
+    "grade": 6,
+    "valueUsd": 78
+  },
+  {
+    "cardId": "gym1-18",
+    "grade": 7,
+    "valueUsd": 145
+  },
+  {
+    "cardId": "gym1-18",
+    "grade": 8,
+    "valueUsd": 173
+  },
+  {
+    "cardId": "gym1-18",
+    "grade": 9,
+    "valueUsd": 299
+  },
+  {
+    "cardId": "gym1-18",
+    "grade": 10,
+    "valueUsd": 1990
+  },
+  {
+    "cardId": "gym2-10",
+    "grade": 7,
+    "valueUsd": 149
+  },
+  {
+    "cardId": "gym2-10",
+    "grade": 8,
+    "valueUsd": 196
+  },
+  {
+    "cardId": "gym2-10",
+    "grade": 9,
+    "valueUsd": 390
+  },
+  {
+    "cardId": "gym2-10",
+    "grade": 10,
+    "valueUsd": 2466
+  },
+  {
+    "cardId": "base1-53",
+    "grade": 7,
+    "valueUsd": 35
+  },
+  {
+    "cardId": "base1-53",
+    "grade": 8,
+    "valueUsd": 40
+  },
+  {
+    "cardId": "base1-53",
+    "grade": 9,
+    "valueUsd": 91
+  },
+  {
+    "cardId": "base1-53",
+    "grade": 10,
+    "valueUsd": 448
+  },
+  {
+    "cardId": "neo1-10",
+    "grade": 5,
+    "valueUsd": 68
+  },
+  {
+    "cardId": "neo1-10",
+    "grade": 6,
+    "valueUsd": 151
+  },
+  {
+    "cardId": "neo1-10",
+    "grade": 7,
+    "valueUsd": 197
+  },
+  {
+    "cardId": "neo1-10",
+    "grade": 8,
+    "valueUsd": 271
+  },
+  {
+    "cardId": "neo1-10",
+    "grade": 9,
+    "valueUsd": 866
+  },
+  {
+    "cardId": "base5-8",
+    "grade": 6,
+    "valueUsd": 150
+  },
+  {
+    "cardId": "base5-8",
+    "grade": 7,
+    "valueUsd": 143
+  },
+  {
+    "cardId": "base5-8",
+    "grade": 8,
+    "valueUsd": 258
+  },
+  {
+    "cardId": "base5-8",
+    "grade": 9,
+    "valueUsd": 562
+  },
+  {
+    "cardId": "base5-8",
+    "grade": 10,
+    "valueUsd": 3803
+  },
+  {
+    "cardId": "neo1-8",
+    "grade": 6,
+    "valueUsd": 55
+  },
+  {
+    "cardId": "neo1-8",
+    "grade": 7,
+    "valueUsd": 77
+  },
+  {
+    "cardId": "neo1-8",
+    "grade": 8,
+    "valueUsd": 146
+  },
+  {
+    "cardId": "neo1-8",
+    "grade": 9,
+    "valueUsd": 315
+  },
+  {
+    "cardId": "neo1-8",
+    "grade": 10,
+    "valueUsd": 2847
+  },
+  {
+    "cardId": "base1-68",
+    "grade": 6,
+    "valueUsd": 31
+  },
+  {
+    "cardId": "base1-68",
+    "grade": 7,
+    "valueUsd": 38
+  },
+  {
+    "cardId": "base1-68",
+    "grade": 8,
+    "valueUsd": 82
+  },
+  {
+    "cardId": "base1-68",
+    "grade": 9,
+    "valueUsd": 148
+  },
+  {
+    "cardId": "base1-68",
+    "grade": 10,
+    "valueUsd": 672
+  },
+  {
+    "cardId": "gym1-6",
+    "grade": 7,
+    "valueUsd": 114
+  },
+  {
+    "cardId": "gym1-6",
+    "grade": 8,
+    "valueUsd": 184
+  },
+  {
+    "cardId": "gym1-6",
+    "grade": 9,
+    "valueUsd": 261
+  },
+  {
+    "cardId": "gym1-6",
+    "grade": 10,
+    "valueUsd": 1580
+  }
+]

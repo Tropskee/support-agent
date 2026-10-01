@@ -1,0 +1,31 @@
+{
+  "name": "support-agent",
+  "type": "module",
+  "private": true,
+  "workspaces": [
+    "features/*"
+  ],
+  "scripts": {
+    "setup": "ori init . && git checkout -- .gitignore && bun -e \"const fs = require('node:fs'); if (!fs.existsSync('.env')) { fs.copyFileSync('.env.example', '.env'); console.log('Created .env from .env.example'); }\" && bun install",
+    "up": "bun scripts/up.ts",
+    "dev": "bun --watch src/server.ts",
+    "start": "bun src/server.ts",
+    "test": "bun test",
+    "typecheck": "tsc --noEmit",
+    "extract": "bun scripts/extract_data.ts",
+    "accounts": "bun scripts/generate_accounts.ts",
+    "tickets": "bun scripts/generate_tickets.ts",
+    "eval": "bun src/eval.ts",
+    "bakeoff": "ori eval evals/ticket-reply --report ../../docs/model-bakeoff.md && bun scripts/clean-bakeoff-report.ts docs/model-bakeoff.md",
+    "bakeoff:pilot": "ori eval evals/ticket-reply/model-bakeoff.eval.ts --pilot 1",
+    "ori:start": "ori start --no-install --port 4717"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "ori": "file:.ori/sdk",
+    "zod": "^4.6.5"
+  }
+}

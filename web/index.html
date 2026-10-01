@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Czeropski Grading / support agent</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<div class="app" id="app">
+  <header>
+    <div class="logo"><i></i>Czeropski Grading <span>/ support agent</span></div>
+    <div class="tabs" id="tabs"></div>
+    <div class="spacer"></div>
+    <div class="meter" id="meter"></div>
+  </header>
+  <div class="error-banner" id="error-banner" hidden>
+    <span class="msg-text" id="error-banner-text"></span>
+    <button id="error-banner-dismiss" aria-label="Dismiss">&times;</button>
+  </div>
+  <div class="notice-banner" id="notice-banner" hidden>
+    <span class="msg-text" id="notice-banner-text"></span>
+    <button id="notice-banner-dismiss" aria-label="Dismiss">&times;</button>
+  </div>
+  <section class="screen on" id="screen-inbox"><div class="body" id="body-inbox"><div class="list" id="inbox-list"></div><div class="detail" id="inbox-detail"></div></div></section>
+  <section class="screen" id="screen-resolved"><div class="body" id="body-resolved"><div class="list" id="resolved-list"></div><div class="detail" id="resolved-detail"></div></div></section>
+  <section class="screen" id="screen-escalated"><div class="body" id="body-escalated"><div class="list" id="escalated-list"></div><div class="detail" id="escalated-detail"></div></div></section>
+  <section class="screen" id="screen-eval">
+    <div id="eval-top"></div>
+    <div class="body" id="body-eval"><div class="list" id="eval-list"></div><div class="detail" id="eval-detail"></div></div>
+  </section>
+</div>
+
+<div class="scrim" id="modal-scrim">
+  <div class="modal" id="modal-body"></div>
+</div>
+
+<script type="module" src="/app.js"></script>
+</body>
+</html>

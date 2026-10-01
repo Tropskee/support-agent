@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "base1-2",
+    "name": "Blastoise",
+    "setName": "Base",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base1-10",
+    "name": "Mewtwo",
+    "setName": "Base",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base1-4",
+    "name": "Charizard",
+    "setName": "Base",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base1-15",
+    "name": "Venusaur",
+    "setName": "Base",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base1-6",
+    "name": "Gyarados",
+    "setName": "Base",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base1-1",
+    "name": "Alakazam",
+    "setName": "Base",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base1-16",
+    "name": "Zapdos",
+    "setName": "Base",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base1-14",
+    "name": "Raichu",
+    "setName": "Base",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base1-46",
+    "name": "Charmander",
+    "setName": "Base",
+    "number": "46",
+    "rarity": "Common",
+    "year": 1999
+  },
+  {
+    "id": "base1-13",
+    "name": "Poliwrath",
+    "setName": "Base",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base1-12",
+    "name": "Ninetales",
+    "setName": "Base",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base1-58",
+    "name": "Pikachu",
+    "setName": "Base",
+    "number": "58",
+    "rarity": "Common",
+    "year": 1999
+  },
+  {
+    "id": "base1-11",
+    "name": "Nidoking",
+    "setName": "Base",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base1-3",
+    "name": "Chansey",
+    "setName": "Base",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base1-63",
+    "name": "Squirtle",
+    "setName": "Base",
+    "number": "63",
+    "rarity": "Common",
+    "year": 1999
+  },
+  {
+    "id": "base1-7",
+    "name": "Hitmonchan",
+    "setName": "Base",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base1-44",
+    "name": "Bulbasaur",
+    "setName": "Base",
+    "number": "44",
+    "rarity": "Common",
+    "year": 1999
+  },
+  {
+    "id": "base3-4",
+    "name": "Dragonite",
+    "setName": "Fossil",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base1-9",
+    "name": "Magneton",
+    "setName": "Base",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base1-5",
+    "name": "Clefairy",
+    "setName": "Base",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "neo1-9",
+    "name": "Lugia",
+    "setName": "Neo Genesis",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base1-24",
+    "name": "Charmeleon",
+    "setName": "Base",
+    "number": "24",
+    "rarity": "Uncommon",
+    "year": 1999
+  },
+  {
+    "id": "base2-60",
+    "name": "Pikachu",
+    "setName": "Jungle",
+    "number": "60",
+    "rarity": "Common",
+    "year": 1999
+  },
+  {
+    "id": "base2-11",
+    "name": "Snorlax",
+    "setName": "Jungle",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base3-5",
+    "name": "Gengar",
+    "setName": "Fossil",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base2-12",
+    "name": "Vaporeon",
+    "setName": "Jungle",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base1-42",
+    "name": "Wartortle",
+    "setName": "Base",
+    "number": "42",
+    "rarity": "Uncommon",
+    "year": 1999
+  },
+  {
+    "id": "gym2-2",
+    "name": "Blaine's Charizard",
+    "setName": "Gym Challenge",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base5-4",
+    "name": "Dark Charizard",
+    "setName": "Team Rocket",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base1-30",
+    "name": "Ivysaur",
+    "setName": "Base",
+    "number": "30",
+    "rarity": "Uncommon",
+    "year": 1999
+  },
+  {
+    "id": "base3-12",
+    "name": "Moltres",
+    "setName": "Fossil",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "neo3-65",
+    "name": "Shining Gyarados",
+    "setName": "Neo Revelation",
+    "number": "65",
+    "rarity": "Rare Shining",
+    "year": 2001
+  },
+  {
+    "id": "base2-3",
+    "name": "Flareon",
+    "setName": "Jungle",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base3-2",
+    "name": "Articuno",
+    "setName": "Fossil",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "gym1-14",
+    "name": "Sabrina's Gengar",
+    "setName": "Gym Heroes",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "neo2-13",
+    "name": "Umbreon",
+    "setName": "Neo Discovery",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "year": 2001
+  },
+  {
+    "id": "base2-10",
+    "name": "Scyther",
+    "setName": "Jungle",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "neo3-66",
+    "name": "Shining Magikarp",
+    "setName": "Neo Revelation",
+    "number": "66",
+    "rarity": "Rare Shining",
+    "year": 2001
+  },
+  {
+    "id": "base2-4",
+    "name": "Jolteon",
+    "setName": "Jungle",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base3-20",
+    "name": "Gengar",
+    "setName": "Fossil",
+    "number": "20",
+    "rarity": "Rare",
+    "year": 1999
+  },
+  {
+    "id": "base3-6",
+    "name": "Haunter",
+    "setName": "Fossil",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base2-8",
+    "name": "Pidgeot",
+    "setName": "Jungle",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base3-10",
+    "name": "Lapras",
+    "setName": "Fossil",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base3-19",
+    "name": "Dragonite",
+    "setName": "Fossil",
+    "number": "19",
+    "rarity": "Rare",
+    "year": 1999
+  },
+  {
+    "id": "base2-6",
+    "name": "Mr. Mime",
+    "setName": "Jungle",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "gym2-1",
+    "name": "Blaine's Arcanine",
+    "setName": "Gym Challenge",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base3-3",
+    "name": "Ditto",
+    "setName": "Fossil",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base3-13",
+    "name": "Muk",
+    "setName": "Fossil",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base3-9",
+    "name": "Kabutops",
+    "setName": "Fossil",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base3-8",
+    "name": "Hypno",
+    "setName": "Fossil",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base2-5",
+    "name": "Kangaskhan",
+    "setName": "Jungle",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "neo4-107",
+    "name": "Shining Charizard",
+    "setName": "Neo Destiny",
+    "number": "107",
+    "rarity": "Rare Shining",
+    "year": 2002
+  },
+  {
+    "id": "gym2-14",
+    "name": "Rocket's Mewtwo",
+    "setName": "Gym Challenge",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base3-1",
+    "name": "Aerodactyl",
+    "setName": "Fossil",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base6-3",
+    "name": "Charizard",
+    "setName": "Legendary Collection",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "year": 2002
+  },
+  {
+    "id": "base3-14",
+    "name": "Raichu",
+    "setName": "Fossil",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base5-21",
+    "name": "Dark Charizard",
+    "setName": "Team Rocket",
+    "number": "21",
+    "rarity": "Rare",
+    "year": 2000
+  },
+  {
+    "id": "gym2-29",
+    "name": "Sabrina's Gengar",
+    "setName": "Gym Challenge",
+    "number": "29",
+    "rarity": "Rare",
+    "year": 2000
+  },
+  {
+    "id": "base2-7",
+    "name": "Nidoqueen",
+    "setName": "Jungle",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "gym2-16",
+    "name": "Sabrina's Alakazam",
+    "setName": "Gym Challenge",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "gym1-3",
+    "name": "Erika's Clefable",
+    "setName": "Gym Heroes",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base2-15",
+    "name": "Vileplume",
+    "setName": "Jungle",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "neo4-109",
+    "name": "Shining Mewtwo",
+    "setName": "Neo Destiny",
+    "number": "109",
+    "rarity": "Rare Shining",
+    "year": 2002
+  },
+  {
+    "id": "base2-2",
+    "name": "Electrode",
+    "setName": "Jungle",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base2-1",
+    "name": "Clefable",
+    "setName": "Jungle",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base2-13",
+    "name": "Venomoth",
+    "setName": "Jungle",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base3-7",
+    "name": "Hitmonlee",
+    "setName": "Fossil",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base5-3",
+    "name": "Dark Blastoise",
+    "setName": "Team Rocket",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base3-15",
+    "name": "Zapdos",
+    "setName": "Fossil",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base1-35",
+    "name": "Magikarp",
+    "setName": "Base",
+    "number": "35",
+    "rarity": "Uncommon",
+    "year": 1999
+  },
+  {
+    "id": "base3-50",
+    "name": "Kabuto",
+    "setName": "Fossil",
+    "number": "50",
+    "rarity": "Common",
+    "year": 1999
+  },
+  {
+    "id": "gym2-13",
+    "name": "Misty's Gyarados",
+    "setName": "Gym Challenge",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base2-14",
+    "name": "Victreebel",
+    "setName": "Jungle",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "neo3-6",
+    "name": "Entei",
+    "setName": "Neo Revelation",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "year": 2001
+  },
+  {
+    "id": "neo1-18",
+    "name": "Typhlosion",
+    "setName": "Neo Genesis",
+    "number": "18",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "neo2-12",
+    "name": "Tyranitar",
+    "setName": "Neo Discovery",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "year": 2001
+  },
+  {
+    "id": "neo1-14",
+    "name": "Slowking",
+    "setName": "Neo Genesis",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base2-27",
+    "name": "Snorlax",
+    "setName": "Jungle",
+    "number": "27",
+    "rarity": "Rare",
+    "year": 1999
+  },
+  {
+    "id": "base3-11",
+    "name": "Magneton",
+    "setName": "Fossil",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "base2-9",
+    "name": "Pinsir",
+    "setName": "Jungle",
+    "number": "9",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "gym2-4",
+    "name": "Erika's Venusaur",
+    "setName": "Gym Challenge",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base1-43",
+    "name": "Abra",
+    "setName": "Base",
+    "number": "43",
+    "rarity": "Common",
+    "year": 1999
+  },
+  {
+    "id": "base1-52",
+    "name": "Machop",
+    "setName": "Base",
+    "number": "52",
+    "rarity": "Common",
+    "year": 1999
+  },
+  {
+    "id": "base1-34",
+    "name": "Machoke",
+    "setName": "Base",
+    "number": "34",
+    "rarity": "Uncommon",
+    "year": 1999
+  },
+  {
+    "id": "neo4-113",
+    "name": "Shining Tyranitar",
+    "setName": "Neo Destiny",
+    "number": "113",
+    "rarity": "Rare Shining",
+    "year": 2002
+  },
+  {
+    "id": "neo3-7",
+    "name": "Ho-oh",
+    "setName": "Neo Revelation",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "year": 2001
+  },
+  {
+    "id": "base1-60",
+    "name": "Ponyta",
+    "setName": "Base",
+    "number": "60",
+    "rarity": "Common",
+    "year": 1999
+  },
+  {
+    "id": "neo1-17",
+    "name": "Typhlosion",
+    "setName": "Neo Genesis",
+    "number": "17",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base2-51",
+    "name": "Eevee",
+    "setName": "Jungle",
+    "number": "51",
+    "rarity": "Common",
+    "year": 1999
+  },
+  {
+    "id": "neo4-111",
+    "name": "Shining Raichu",
+    "setName": "Neo Destiny",
+    "number": "111",
+    "rarity": "Rare Shining",
+    "year": 2002
+  },
+  {
+    "id": "neo1-12",
+    "name": "Pichu",
+    "setName": "Neo Genesis",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base2-16",
+    "name": "Wigglytuff",
+    "setName": "Jungle",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "gym1-1",
+    "name": "Blaine's Moltres",
+    "setName": "Gym Heroes",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "neo3-14",
+    "name": "Suicune",
+    "setName": "Neo Revelation",
+    "number": "14",
+    "rarity": "Rare Holo",
+    "year": 2001
+  },
+  {
+    "id": "gym1-12",
+    "name": "Rocket's Moltres",
+    "setName": "Gym Heroes",
+    "number": "12",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base5-83",
+    "name": "Dark Raichu",
+    "setName": "Team Rocket",
+    "number": "83",
+    "rarity": "Rare Secret",
+    "year": 2000
+  },
+  {
+    "id": "neo3-3",
+    "name": "Celebi",
+    "setName": "Neo Revelation",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "year": 2001
+  },
+  {
+    "id": "base1-32",
+    "name": "Kadabra",
+    "setName": "Base",
+    "number": "32",
+    "rarity": "Uncommon",
+    "year": 1999
+  },
+  {
+    "id": "gym2-15",
+    "name": "Rocket's Zapdos",
+    "setName": "Gym Challenge",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base1-26",
+    "name": "Dratini",
+    "setName": "Base",
+    "number": "26",
+    "rarity": "Uncommon",
+    "year": 1999
+  },
+  {
+    "id": "base1-23",
+    "name": "Arcanine",
+    "setName": "Base",
+    "number": "23",
+    "rarity": "Uncommon",
+    "year": 1999
+  },
+  {
+    "id": "gym2-5",
+    "name": "Giovanni's Gyarados",
+    "setName": "Gym Challenge",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "neo4-112",
+    "name": "Shining Steelix",
+    "setName": "Neo Destiny",
+    "number": "112",
+    "rarity": "Rare Shining",
+    "year": 2002
+  },
+  {
+    "id": "base1-18",
+    "name": "Dragonair",
+    "setName": "Base",
+    "number": "18",
+    "rarity": "Rare",
+    "year": 1999
+  },
+  {
+    "id": "base1-8",
+    "name": "Machamp",
+    "setName": "Base",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "year": 1999
+  },
+  {
+    "id": "neo4-106",
+    "name": "Shining Celebi",
+    "setName": "Neo Destiny",
+    "number": "106",
+    "rarity": "Rare Shining",
+    "year": 2002
+  },
+  {
+    "id": "neo4-6",
+    "name": "Dark Gengar",
+    "setName": "Neo Destiny",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "year": 2002
+  },
+  {
+    "id": "base1-28",
+    "name": "Growlithe",
+    "setName": "Base",
+    "number": "28",
+    "rarity": "Uncommon",
+    "year": 1999
+  },
+  {
+    "id": "neo3-13",
+    "name": "Raikou",
+    "setName": "Neo Revelation",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "year": 2001
+  },
+  {
+    "id": "base5-1",
+    "name": "Dark Alakazam",
+    "setName": "Team Rocket",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base1-50",
+    "name": "Gastly",
+    "setName": "Base",
+    "number": "50",
+    "rarity": "Common",
+    "year": 1999
+  },
+  {
+    "id": "gym1-13",
+    "name": "Rocket's Scyther",
+    "setName": "Gym Heroes",
+    "number": "13",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "neo1-5",
+    "name": "Feraligatr",
+    "setName": "Neo Genesis",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base1-56",
+    "name": "Onix",
+    "setName": "Base",
+    "number": "56",
+    "rarity": "Common",
+    "year": 1999
+  },
+  {
+    "id": "neo4-108",
+    "name": "Shining Kabutops",
+    "setName": "Neo Destiny",
+    "number": "108",
+    "rarity": "Rare Shining",
+    "year": 2002
+  },
+  {
+    "id": "gym1-10",
+    "name": "Misty's Tentacruel",
+    "setName": "Gym Heroes",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base1-65",
+    "name": "Staryu",
+    "setName": "Base",
+    "number": "65",
+    "rarity": "Common",
+    "year": 1999
+  },
+  {
+    "id": "gym1-4",
+    "name": "Erika's Dragonair",
+    "setName": "Gym Heroes",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "ecard1-6",
+    "name": "Charizard",
+    "setName": "Expedition Base Set",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "year": 2002
+  },
+  {
+    "id": "base1-29",
+    "name": "Haunter",
+    "setName": "Base",
+    "number": "29",
+    "rarity": "Uncommon",
+    "year": 1999
+  },
+  {
+    "id": "base1-97",
+    "name": "Fighting Energy",
+    "setName": "Base",
+    "number": "97",
+    "rarity": "",
+    "year": 1999
+  },
+  {
+    "id": "gym2-8",
+    "name": "Giovanni's Persian",
+    "setName": "Gym Challenge",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "gym2-3",
+    "name": "Brock's Ninetales",
+    "setName": "Gym Challenge",
+    "number": "3",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "gym2-11",
+    "name": "Lt. Surge's Raichu",
+    "setName": "Gym Challenge",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base1-38",
+    "name": "Poliwhirl",
+    "setName": "Base",
+    "number": "38",
+    "rarity": "Uncommon",
+    "year": 1999
+  },
+  {
+    "id": "gym1-2",
+    "name": "Brock's Rhydon",
+    "setName": "Gym Heroes",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "neo1-15",
+    "name": "Steelix",
+    "setName": "Neo Genesis",
+    "number": "15",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "neo1-16",
+    "name": "Togetic",
+    "setName": "Neo Genesis",
+    "number": "16",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base2-50",
+    "name": "Cubone",
+    "setName": "Jungle",
+    "number": "50",
+    "rarity": "Common",
+    "year": 1999
+  },
+  {
+    "id": "neo2-4",
+    "name": "Houndoom",
+    "setName": "Neo Discovery",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "year": 2001
+  },
+  {
+    "id": "neo4-110",
+    "name": "Shining Noctowl",
+    "setName": "Neo Destiny",
+    "number": "110",
+    "rarity": "Rare Shining",
+    "year": 2002
+  },
+  {
+    "id": "gym2-6",
+    "name": "Giovanni's Machamp",
+    "setName": "Gym Challenge",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base1-47",
+    "name": "Diglett",
+    "setName": "Base",
+    "number": "47",
+    "rarity": "Common",
+    "year": 1999
+  },
+  {
+    "id": "neo1-2",
+    "name": "Azumarill",
+    "setName": "Neo Genesis",
+    "number": "2",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "neo3-8",
+    "name": "Houndoom",
+    "setName": "Neo Revelation",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "year": 2001
+  },
+  {
+    "id": "neo1-4",
+    "name": "Feraligatr",
+    "setName": "Neo Genesis",
+    "number": "4",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "neo1-6",
+    "name": "Heracross",
+    "setName": "Neo Genesis",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "neo1-1",
+    "name": "Ampharos",
+    "setName": "Neo Genesis",
+    "number": "1",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base1-31",
+    "name": "Jynx",
+    "setName": "Base",
+    "number": "31",
+    "rarity": "Uncommon",
+    "year": 1999
+  },
+  {
+    "id": "gym2-7",
+    "name": "Giovanni's Nidoking",
+    "setName": "Gym Challenge",
+    "number": "7",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "gym1-5",
+    "name": "Erika's Vileplume",
+    "setName": "Gym Heroes",
+    "number": "5",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "gym1-11",
+    "name": "Rocket's Hitmonchan",
+    "setName": "Gym Heroes",
+    "number": "11",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "gym1-18",
+    "name": "Misty",
+    "setName": "Gym Heroes",
+    "number": "18",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "gym2-10",
+    "name": "Koga's Ditto",
+    "setName": "Gym Challenge",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base1-53",
+    "name": "Magnemite",
+    "setName": "Base",
+    "number": "53",
+    "rarity": "Common",
+    "year": 1999
+  },
+  {
+    "id": "neo1-10",
+    "name": "Meganium",
+    "setName": "Neo Genesis",
+    "number": "10",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base5-8",
+    "name": "Dark Gyarados",
+    "setName": "Team Rocket",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "neo1-8",
+    "name": "Kingdra",
+    "setName": "Neo Genesis",
+    "number": "8",
+    "rarity": "Rare Holo",
+    "year": 2000
+  },
+  {
+    "id": "base1-68",
+    "name": "Vulpix",
+    "setName": "Base",
+    "number": "68",
+    "rarity": "Common",
+    "year": 1999
+  },
+  {
+    "id": "gym1-6",
+    "name": "Lt. Surge's Electabuzz",
+    "setName": "Gym Heroes",
+    "number": "6",
+    "rarity": "Rare Holo",
+    "year": 2000
+  }
+]
